@@ -1,0 +1,1758 @@
+Timestamp,Symbol,Current_Price,Action_Pred,LLM_Reason,Expected_Move,Next_Price_Real,Result_Verified,Profit_Loss
+2025-12-14 17:48:42,BTCUSDT,90023.0,BUY,"Execute a **Long (Buy)** strategy, as similar historical market states have consistently yielded asymmetric upside (gains of ~1.3% to 3%) with negligible observed downside risk.",UP,90025.71,CORRECT,0.0030%
+2025-12-14 17:48:42,ETHUSDT,3109.22,BUY,"Execute Action 1 (Buy/Long) to capitalize on a net positive historical expectancy, as the demonstrated 1.29% upside potential outweighs the observed 0.93% downside risk in similar market states.",UP,3109.32,CORRECT,0.0032%
+2025-12-14 17:48:42,BNBUSDT,895.67,BUY,"Based on the historical data where active entries (Action 1) resulted in losses (-0.23) while neutral positioning (Action 0) yielded positive returns (1.0) in similar high-saturation states, the recommended strategy is to **Hold**.",UP,895.32,WRONG,-0.0391%
+2025-12-14 17:48:42,SOLUSDT,132.5,BUY,"Execute a **Hold/Wait** strategy, as similar historical states indicate a poor risk-to-reward ratio where significant downside volatility (-2.79%) outweighs the marginal upside potential (+0.56%).",UP,132.5,WRONG,0.0000%
+2025-12-14 17:48:42,PEPEUSDT,4.32e-06,BUY,"Execute a calculated entry to capture the asymmetric upside, as the historical data reveals a high-conviction positive outlier (1.0) that significantly outweighs the negligible downside risk (-0.009) in this specific market configuration.",UP,4.33e-06,CORRECT,0.2315%
+2025-12-14 17:51:55,BTCUSDT,90025.71,BUY,"Execute Action 1 to capitalize on a projected 0.56% yield, as historical data confirms positive rewards for active entry during similar low-volatility conditions.",UP,90033.63,CORRECT,0.0088%
+2025-12-14 17:51:55,ETHUSDT,3109.33,BUY,"Given that Action 1 demonstrates a net negative expected return (-0.06%) due to significant downside risk in similar saturated market states, the recommended strategy is to **Hold (Action 0)**.",UP,3108.97,WRONG,-0.0116%
+2025-12-14 17:51:55,BNBUSDT,895.04,BUY,"Execute Action 1, as it represents the sole historical pathway to a positive realized gain (0.3%) in similar conditions, whereas Action 0 has consistently yielded flat returns.",UP,895.15,CORRECT,0.0123%
+2025-12-14 17:51:55,SOLUSDT,132.47,BUY,"Execute Action 0 (Hold) to preserve capital, as similar historical market states resulted in losses (-2.2% to -3.9%) when attempting active entries.",UP,132.49,CORRECT,0.0151%
+2025-12-14 17:51:55,PEPEUSDT,4.32e-06,BUY,"Execute **Action 1** (Buy/Long), as similar high-signal market states have historically yielded consistent positive returns ranging from approximately 0.5% to 1.0%.",UP,4.33e-06,CORRECT,0.2315%
+2025-12-14 17:54:55,BTCUSDT,90033.63,BUY,"**Execute a Buy (Action 1), as similar historical market states demonstrate a robust positive expectancy driven by significant upside potential despite minor volatility.**",UP,90025.89,WRONG,-0.0086%
+2025-12-14 17:54:55,ETHUSDT,3108.96,BUY,"Execute a long position (Action 1) immediately, as historical outcomes in this state demonstrate a highly asymmetric risk-reward profile with a significant +23% upside outlier outweighing minimal downside exposure.",UP,3109.33,CORRECT,0.0119%
+2025-12-14 17:54:55,BNBUSDT,895.11,BUY,"Adopt a **defensive Hold** strategy, as the saturated market state indicators (near 1.0) suggest overbought conditions, while similar historical actions yielded high volatility with negligible net returns.",UP,894.73,WRONG,-0.0425%
+2025-12-14 17:54:55,SOLUSDT,132.41,BUY,"Execute Action 1 (Long), as historical data for similar market states indicates a high probability of profit with yields ranging from 0.32% to 1.23% and no recorded losses.",UP,132.41,WRONG,0.0000%
+2025-12-14 17:54:55,PEPEUSDT,4.32e-06,BUY,"Execute Action 1, as similar historical market states consistently yielded positive returns ranging from approximately 0.3% to 3.0%.",UP,4.32e-06,WRONG,0.0000%
+2025-12-14 17:57:47,BTCUSDT,90025.89,BUY,"Execute Action 1, as similar historical states resulted in positive yields between 0.3% and 1.2%, whereas inaction consistently returned zero value.",UP,90020.06,WRONG,-0.0065%
+2025-12-14 17:57:47,ETHUSDT,3109.33,BUY,"Given that Action 1 has historically yielded a net negative return with significant downside risk in similar market states, the recommended strategy is to execute **Action 0 (Hold)** to preserve capital.",UP,3108.78,WRONG,-0.0177%
+2025-12-14 17:57:47,BNBUSDT,894.8,BUY,"**Execute Action 1 (Buy), as historical data reveals that entering the market in this state consistently yields positive returns (~0.88% to 1.29%) compared to the zero-reward outcome of holding.**",UP,894.52,WRONG,-0.0313%
+2025-12-14 17:57:47,SOLUSDT,132.33,BUY,"Execute **Action 0** (Hold/Neutral), as the saturated state indicators (near 1.0) coincide with a negative risk-reward ratio for Action 1, which historically resulted in predominant losses.",UP,132.33,WRONG,0.0000%
+2025-12-14 17:57:47,PEPEUSDT,4.32e-06,BUY,"Strategy: Execute Action 1, as historical data indicates this move offers the highest probability of success with past returns ranging from 0.56% to 0.88% in similar market conditions.",UP,4.32e-06,WRONG,0.0000%
+2025-12-14 18:00:43,BTCUSDT,90020.06,BUY,"Given that executing **Action 1** in similar market states resulted in a net negative expectancy dominated by a significant -4.25% loss, the recommended strategy is to **Hold (Action 0)** to preserve capital and avoid probable downside.",UP,90023.3,CORRECT,0.0036%
+2025-12-14 18:00:43,ETHUSDT,3108.51,BUY,"Execute **Action 0 (Hold)** to preserve capital, as similar historical market states resulted in losses when Action 1 was attempted.",UP,3108.69,CORRECT,0.0058%
+2025-12-14 18:00:43,BNBUSDT,894.38,BUY,"Execute **Action 1** (Long) to capture asymmetric upside, as the positive expected value is driven by a high-magnitude 23% outlier that successfully offsets the risk of frequent minor drawdowns.",UP,894.34,WRONG,-0.0045%
+2025-12-14 18:00:43,SOLUSDT,132.32,BUY,"Execute **Action 1 (Buy/Long)**, as similar market states consistently show positive expectancy averaging ~0.30% returns with no recorded drawdowns.",UP,132.32,WRONG,0.0000%
+2025-12-14 18:00:43,PEPEUSDT,4.32e-06,BUY,"Avoid Action 1 and preserve capital, as similar saturated market states have historically resulted in a significant net negative expectancy.",UP,4.32e-06,WRONG,0.0000%
+2025-12-14 18:03:37,BTCUSDT,90023.3,BUY,"Recommended strategy is **Hold (Action 0)**, as similar historical market states indicate a negative expected value for buying (average return -1.7%) with downside risk outweighing potential gains.",UP,90044.25,CORRECT,0.0233%
+2025-12-14 18:03:37,ETHUSDT,3109.45,BUY,"Execute **Action 0 (Hold)** to preserve capital, as similar historical market states indicate that active entry (Action 1) consistently results in negative returns.",UP,3110.92,CORRECT,0.0473%
+2025-12-14 18:03:37,BNBUSDT,893.97,BUY,"Execute Action 1 (Long), as the historical data indicates a positive expected value where the potential reward (+1.23%) significantly outweighs the observed downside risk (-0.65%) in similar high-volatility states.",UP,894.3,CORRECT,0.0369%
+2025-12-14 18:03:37,SOLUSDT,132.35,BUY,"Execute Action 1 (Long) to capture asymmetric upside, as the high-magnitude state metrics indicate a volatility regime where historical gains (0.012) have outweighed minor drawdowns (-0.006).",UP,132.59,CORRECT,0.1813%
+2025-12-14 18:03:37,PEPEUSDT,4.33e-06,BUY,"Based on the provided telemetry where Action 1 resulted in a negative return (-4.2%) and Action 0 consistently yielded positive or stable outcomes, the optimal strategy is to **maintain a holding pattern (Action 0) to avoid probable downside risk.**",UP,4.33e-06,WRONG,0.0000%
+2025-12-14 18:06:46,BTCUSDT,90044.25,BUY,"Execute Action 1 (Long) to leverage the active trend signal and a 66% historical probability of profit, despite mixed net returns suggesting the need for tight risk management.",UP,89969.13,WRONG,-0.0834%
+2025-12-14 18:06:46,ETHUSDT,3110.38,BUY,"Based on the recurrence of **Action 1** in similar past states yielding a positive average reward of approximately **1.4%** (despite one neutral outcome), the optimal strategy is to **execute Action 1 (Buy/Long)** to capture the expected upside.",UP,3108.65,WRONG,-0.0556%
+2025-12-14 18:06:46,BNBUSDT,893.87,BUY,"Given the mixed historical outcomes averaging a slight net loss (-0.46%) alongside high-intensity state indicators, the recommended strategy is to **hold** and avoid new entries until risk-adjusted returns improve.",UP,893.71,WRONG,-0.0179%
+2025-12-14 18:06:46,SOLUSDT,132.54,BUY,"Adopt a speculative high-reward strategy with strict risk controls, as the current market state mirrors historical patterns that offer a 33% probability of maximum returns (1.0) despite a dominant baseline of neutral outcomes.",UP,132.42,WRONG,-0.0905%
+2025-12-14 18:06:46,PEPEUSDT,4.34e-06,BUY,"Execute **Action 1**, as the historical data indicates an asymmetric risk-reward profile where the potential for a substantial 23.1% gain significantly outweighs the minor 2.8% downside risk compared to the neutral outcome of holding (Action 0).",UP,4.33e-06,WRONG,-0.2304%
+2025-12-14 18:11:13,BTCUSDT,89969.13,BUY,"**Execute a buy order**, as historical data confirms that taking action 1 in similar market states consistently yields positive returns ranging from 0.3% to 3%.",UP,89858.6,WRONG,-0.1229%
+2025-12-14 18:11:13,ETHUSDT,3108.65,BUY,"Adopt a defensive stance by holding cash or selling, as similar high-momentum states have historically resulted in a negative expected return driven by significant downside outliers (up to -9% loss).",UP,3100.76,WRONG,-0.2538%
+2025-12-14 18:11:13,BNBUSDT,893.85,BUY,"Exercise caution and maintain a **Hold** position, as historical data indicates that executing Action 1 in similar market states consistently results in negative returns ranging from -2% to -8%.",UP,892.42,WRONG,-0.1600%
+2025-12-14 18:11:13,SOLUSDT,132.42,BUY,"Execute a **Hold (Action 0)** strategy, as similar historical market conditions resulted in a net negative expectancy for active entries.",UP,131.39,WRONG,-0.7778%
+2025-12-14 18:11:13,PEPEUSDT,4.34e-06,BUY,"Execute Action 1, as similar historical market states indicate a positive expected value with a 66% win rate and gains outweighing the single recorded loss.",UP,4.31e-06,WRONG,-0.6912%
+2025-12-14 18:13:44,BTCUSDT,89858.59,BUY,"Execute **Action 1**, as similar historical states demonstrate a positive expected return of approximately 1.42% that outweighs the risk of minor drawdown.",UP,89856.24,WRONG,-0.0026%
+2025-12-14 18:13:44,ETHUSDT,3095.98,BUY,"Execute a **Buy (Action 1)** strategy, as similar high-magnitude market states have historically yielded positive returns (up to 0.18) for this action, while inaction has consistently resulted in zero rewards.",UP,3099.71,CORRECT,0.1205%
+2025-12-14 18:13:44,BNBUSDT,891.8,BUY,"Execute **Action 1**, as the aggregate historical data from similar high-volatility states indicates a positive expected value driven by significant upside potential (+18.13%) that outweighs minor drawdown risks.",UP,890.74,WRONG,-0.1189%
+2025-12-14 18:13:44,SOLUSDT,131.31,BUY,"**Strategy:** Execute **Action 1** (Buy/Long), as similar historical market states demonstrate a positive expected value where the significant upside potential (+0.18) outweighs the limited downside risk (-0.05).",UP,131.45,CORRECT,0.1066%
+2025-12-14 18:13:44,PEPEUSDT,4.3e-06,BUY,"Adopt a neutral **Hold strategy (Action 0)**, as similar historical high-metric states resulted in negative rewards when attempting active execution (Action 1).",UP,4.3e-06,WRONG,0.0000%
+2025-12-14 18:16:38,BTCUSDT,89856.24,BUY,"Execute a **Hold (Action 0)** strategy, as similar historical states reveal that Long entries (Action 1) result in a negative expected return due to substantial drawdown risk (-4.25%) outweighing marginal gains.",UP,89894.09,CORRECT,0.0421%
+2025-12-14 18:16:38,ETHUSDT,3099.59,BUY,"Execute Action 1 (Long), as similar historical states demonstrate a net positive expectancy with a 66% win rate despite minor volatility.",UP,3102.0,CORRECT,0.0778%
+2025-12-14 18:16:38,BNBUSDT,890.99,BUY,"Execute **Action 1** to capitalize on positive asymmetric expectancy, driven by historical precedents showing significant upside potential (~23% reward) compared to neutral alternatives.",UP,891.89,CORRECT,0.1010%
+2025-12-14 18:16:38,SOLUSDT,131.5,BUY,"Strategy: **Hold/Wait**, as similar historical states indicate that executing a trade (Action 1) results in negative expected returns (losses up to 9%) or stagnation.",UP,131.68,CORRECT,0.1369%
+2025-12-14 18:16:38,PEPEUSDT,4.3e-06,BUY,"With historical data consistently showing negative rewards for Action 1 (Buy) in similar market conditions, the optimal strategy is to **Hold** or **Sell** to avoid probable downside.",UP,4.31e-06,CORRECT,0.2326%
+2025-12-14 18:19:26,BTCUSDT,89894.09,BUY,"Execute Action 1, as analysis of similar market states reveals a positive expected value where significant upside potential (+4.7%) outweighs the risk of minor volatility.",UP,89963.27,CORRECT,0.0770%
+2025-12-14 18:19:26,ETHUSDT,3101.61,BUY,"Execute Action 1 (Buy), as similar historical market states consistently yielded positive returns ranging from approximately 0.8% to 4.7%.",UP,3103.77,CORRECT,0.0696%
+2025-12-14 18:19:26,BNBUSDT,892.0,BUY,"Execute Action 1 (Buy), as similar historical market states consistently yielded positive rewards ranging from 1.5% to 2.3% while alternative actions returned zero.",UP,892.39,CORRECT,0.0437%
+2025-12-14 18:19:26,SOLUSDT,131.75,BUY,"Given the saturated market state (0.99) and a history of negative returns (`-0.15`, `-0.23`) under similar conditions, the strategy is to **Sell** immediately to mitigate high downside risk.",UP,131.72,WRONG,-0.0228%
+2025-12-14 18:19:26,PEPEUSDT,4.31e-06,BUY,"Based on the analysis of similar past market states where Action 1 consistently yielded positive returns (approximately 0.3%) compared to the neutral or zero outcomes of Action 0, the optimal strategy is to **execute Action 1 (Buy)**.",UP,4.31e-06,WRONG,0.0000%
+2025-12-14 18:22:53,BTCUSDT,89963.27,BUY,"**Strategy:** Execute **Action 1 (Buy)**, as similar historical market conditions have yielded a net positive expected return, where significant upside potential (+0.23) heavily outweighs the minimal downside risk (-0.008) observed in past outcomes.",UP,90087.51,CORRECT,0.1381%
+2025-12-14 18:22:53,ETHUSDT,3105.83,BUY,"Execute Action 1 to capitalize on a positive expected value, as similar historical states yielded predominantly profitable returns (+3.7% and +1.2%) that significantly outweigh the minor downside risk (-0.6%).",UP,3110.38,CORRECT,0.1465%
+2025-12-14 18:22:53,BNBUSDT,892.71,BUY,"Adopt an aggressive **Long/Buy** stance, as similar historical states predominantly yielded high positive rewards (1.0) with negligible downside risk.",UP,893.53,CORRECT,0.0919%
+2025-12-14 18:22:53,SOLUSDT,131.91,BUY,"Maintain a neutral **Hold** position, as similar past market conditions resulted in negative rewards (drawdowns up to 8.3%) when active entries were taken.",UP,131.94,CORRECT,0.0227%
+2025-12-14 18:22:53,PEPEUSDT,4.32e-06,BUY,"Execute **Action 1 (Buy)**, as current market stability combined with historical data indicates a high probability of capturing positive returns averaging 0.5% to 0.9%.",UP,4.32e-06,WRONG,0.0000%
+2025-12-14 18:25:48,BTCUSDT,90087.51,BUY,"Adopt a defensive stance and avoid new long entries, as similar past market conditions resulted in a negative average return dominated by significant drawdowns.",UP,90025.03,WRONG,-0.0694%
+2025-12-14 18:25:48,ETHUSDT,3110.21,BUY,"Execute Action 1 to capitalize on a slight net positive historical expectancy (+0.54%), while implementing strict risk management to account for the high volatility and significant drawdown risk observed in similar past states.",UP,3108.92,WRONG,-0.0415%
+2025-12-14 18:25:48,BNBUSDT,893.46,BUY,"Execute **Action 1** to target the demonstrated 4.21% upside potential, but enforce strict stop-losses as the aggregate historical data indicates volatility with near-neutral average returns.",UP,892.91,WRONG,-0.0616%
+2025-12-14 18:25:48,SOLUSDT,131.91,BUY,"Given the bullish price ratio relative to the moving average (1.0034) and historical data showing consistent positive yields (up to 2.2%) for Action 1, the optimal strategy is to **Execute/Maintain a Buy** position.",UP,131.65,WRONG,-0.1971%
+2025-12-14 18:25:48,PEPEUSDT,4.33e-06,BUY,"Based on the analysis of similar historical triplets where **Action 1 (Buy)** yielded a net-positive expected return driven by massive upside (+23%) despite frequent minor drawdowns, the strategy is to **execute a Buy** to capitalize on the asymmetric risk-to-reward ratio.",UP,4.32e-06,WRONG,-0.2309%
+2025-12-14 18:29:16,BTCUSDT,90025.03,BUY,"Adopt a defensive neutral posture to preserve capital, as historical data indicates that active positioning in similar market states yielded consistently negative or flat returns.",UP,89884.12,WRONG,-0.1565%
+2025-12-14 18:29:16,ETHUSDT,3108.46,BUY,"Execute a **Buy** order, as similar historical market states indicate a positive expected reward for entering a position while current inventory is empty.",UP,3103.44,WRONG,-0.1615%
+2025-12-14 18:29:16,BNBUSDT,892.88,BUY,"Execute **Action 1**, as similar historical market states consistently yielded positive rewards ranging from approximately 0.047 to 0.077.",UP,891.95,WRONG,-0.1042%
+2025-12-14 18:29:16,SOLUSDT,131.58,BUY,"Execute **Action 0** (Sell/Hold), as similar historical vector states indicate a high probability of success (Reward 1.0) for this move compared to the negligible or zero returns yielded by Action 1.",UP,131.34,WRONG,-0.1824%
+2025-12-14 18:29:16,PEPEUSDT,4.32e-06,BUY,"Based on the mixed historical outcomes where the downside volatility (-6.16%) outweighs the upside potential (+4.21%) on active entries (Action 1), the optimal strategy is to **Hold** and preserve capital until a higher-probability setup emerges.",UP,4.3e-06,WRONG,-0.4630%
+2025-12-14 18:32:12,BTCUSDT,89884.12,BUY,"Adopt a neutral stance and avoid entry, as historical precedents indicate that taking action in this declining market structure results in losses ranging from roughly 6% to 8%.",UP,89943.96,CORRECT,0.0666%
+2025-12-14 18:32:12,ETHUSDT,3104.39,BUY,"**Execute Action 1**, as similar high-signal market states have historically yielded positive returns (peaking at ~13.8%) without observed losses for this specific move.",UP,3106.64,CORRECT,0.0725%
+2025-12-14 18:32:12,BNBUSDT,892.16,BUY,"**Strategy:** Execute **Action 0** (Hold/Defensive), as the current high-magnitude state vector aligns with historical outcomes where Action 0 yielded the maximum reward (1.0) compared to the negligible returns associated with Action 1.",UP,892.92,CORRECT,0.0852%
+2025-12-14 18:32:12,SOLUSDT,131.43,BUY,"Execute **Action 1**, as historical data indicates a favorable probability for a **~2.27% gain**, outperforming the stagnation or minor drawdown associated with inaction (Action 0) in this specific market state.",UP,131.72,CORRECT,0.2206%
+2025-12-14 18:32:12,PEPEUSDT,4.31e-06,BUY,"Strategy is **Hold (Action 0)**, as the current overextended market state matches historical patterns where active entry resulted in significant drawdown (-0.12) rather than meaningful profit.",UP,4.31e-06,WRONG,0.0000%
+2025-12-14 18:35:02,BTCUSDT,89943.96,BUY,"Execute a **Hold or Sell (Action 0)** strategy, as similar historical market states indicate that Action 1 consistently yields negative rewards ranging from -4.2% to -6.1%.",UP,89878.5,WRONG,-0.0728%
+2025-12-14 18:35:02,ETHUSDT,3106.36,BUY,"Exercise caution and maintain a defensive position, as similar historical market states have yielded inconsistent results with significant downside risks ranging from -4% to -8%.",UP,3104.55,WRONG,-0.0583%
+2025-12-14 18:35:02,BNBUSDT,892.78,BUY,"Pivot to a risk-off neutral stance immediately, as historical data indicates negative expected value for active long positions (Action 1) in this specific market state.",UP,891.92,WRONG,-0.0963%
+2025-12-14 18:35:02,SOLUSDT,131.75,BUY,"**Strategy: Hold (Action 0)**, as historical data indicates that taking Action 1 in similar overextended market states yields negative returns ranging from -1.8% to -4.2%.",UP,131.72,WRONG,-0.0228%
+2025-12-14 18:35:02,PEPEUSDT,4.31e-06,BUY,"Execute a **Hold (Action 0)** strategy, as the aggregated historical rewards for active positions in similar states yield a negative net expectancy (-0.21%) due to asymmetrical downside risk.",UP,4.31e-06,WRONG,0.0000%
+2025-12-14 18:37:50,BTCUSDT,89878.5,BUY,"Execute **Action 1**, as the aggregate historical data shows a positive net expectancy despite notable downside volatility.",UP,89898.9,CORRECT,0.0227%
+2025-12-14 18:37:50,ETHUSDT,3105.0,BUY,"Avoid executing Action 1, as similar historical market states resulted in consistent negative returns, indicating that a defensive approach or alternative action is required to prevent losses.",UP,3102.84,WRONG,-0.0696%
+2025-12-14 18:37:50,BNBUSDT,891.97,BUY,"Given the saturated market state indicators and a negative average historical return for buying in similar setups, the recommended strategy is to **remain neutral or sell** to avoid probable downside.",UP,891.95,WRONG,-0.0022%
+2025-12-14 18:37:50,SOLUSDT,131.8,BUY,**Avoid executing Action 1 (likely Buy/Long) as similar historical states consistently yielded negative returns; the optimal strategy is to hold or remain neutral (Action 0) to preserve capital.**,UP,131.71,WRONG,-0.0683%
+2025-12-14 18:37:50,PEPEUSDT,4.31e-06,BUY,"With Action 1 consistently yielding negative returns (ranging from -4% to -23%) in similar historical contexts, the advisable strategy is to pivot to **Action 0** (Hold/Sell) to preserve capital.",UP,4.31e-06,WRONG,0.0000%
+2025-12-14 18:40:29,BTCUSDT,89898.9,BUY,"Avoid opening new long positions, as historical data indicates that taking action in similar overextended market states consistently leads to negative returns or stagnation.",UP,89942.05,CORRECT,0.0480%
+2025-12-14 18:40:29,ETHUSDT,3102.1,BUY,"Adopt a defensive strategy, as similar historical conditions show high variance where a significant downside risk (-8.3%) outweighs the potential for modest returns.",UP,3105.62,CORRECT,0.1135%
+2025-12-14 18:40:29,BNBUSDT,891.94,BUY,"Adopt a defensive Hold strategy (Action 0), as historical data indicates that executing Action 1 in similar market states consistently yields negative returns ranging from -3% to -15%.",UP,892.54,CORRECT,0.0673%
+2025-12-14 18:40:29,SOLUSDT,131.69,BUY,"Given that **Action 1** consistently generated positive rewards (ranging from approx. 1.2% to 6.7%) in similar historical market states, the optimal strategy is to execute **Action 1** immediately.",UP,131.8,CORRECT,0.0835%
+2025-12-14 18:40:29,PEPEUSDT,4.31e-06,BUY,"Maintain a defensive stance, as the historical prevalence of zero-reward outcomes suggests a low-probability environment for profitable entries despite active market indicators.",UP,4.31e-06,WRONG,0.0000%
+2025-12-14 18:43:05,BTCUSDT,89942.05,BUY,"Given that Action 1 has consistently resulted in negative rewards ranging from -0.2% to -8.3% in similar market conditions, the optimal strategy is to **abstain from entry (Hold)** to preserve capital.",UP,89922.86,WRONG,-0.0213%
+2025-12-14 18:43:05,ETHUSDT,3105.45,BUY,"Avoid taking Action 1, as similar historical market states consistently yielded negative returns averaging approximately -5.7%, suggesting a defensive Hold or Sell approach is currently preferable.",UP,3106.65,CORRECT,0.0386%
+2025-12-14 18:43:05,BNBUSDT,892.45,BUY,"Execute **Action 0**, as the near-maximized state indicators combined with historical data showing a significant drawdown (-8.34%) in similar setups suggest an overextended market with high downside risk.",UP,892.9,CORRECT,0.0504%
+2025-12-14 18:43:05,SOLUSDT,131.8,BUY,"**Execute Action 1**, as similar historical states consistently triggered this move to generate a positive expected return (driven by a ~4.8% reward outlier) with no recorded downside.",UP,131.89,CORRECT,0.0683%
+2025-12-14 18:43:05,PEPEUSDT,4.31e-06,BUY,"Recommendation: **Execute Action 0 (Hold)**, as similar historical scenarios indicate that active trading (Action 1) carries a negative expected value (net loss) due to volatility outweighing the potential gains.",UP,4.33e-06,CORRECT,0.4640%
+2025-12-14 18:46:04,BTCUSDT,89922.86,BUY,"Execute Action 0 (Sell/Wait), as Action 1 has demonstrated a negative expected value with predominant losses in similar past market conditions.",UP,89898.76,WRONG,-0.0268%
+2025-12-14 18:46:04,ETHUSDT,3106.66,BUY,"Adopt a defensive **Hold (Action 0)** strategy, as similar historical market conditions indicate that executing Action 1 yields a net negative expectancy (approx. -3.3%) with a low win rate.",UP,3106.09,WRONG,-0.0183%
+2025-12-14 18:46:04,BNBUSDT,892.7,BUY,"Execute Action 1 (Buy/Long), as similar historical market conditions have consistently yielded positive rewards between 0.03 and 0.18.",UP,893.69,CORRECT,0.1109%
+2025-12-14 18:46:04,SOLUSDT,131.83,BUY,"**Strategy:** Execute **Action 0 (Hold)**, as similar historical conditions indicate a negative expected value for active entry (Action 1), where the magnitude of past losses (-8.34%) outweighs the potential gains (+6.65%).",UP,131.91,CORRECT,0.0607%
+2025-12-14 18:46:04,PEPEUSDT,4.32e-06,BUY,"Adopt a neutral stance, as similar historical setups resulted in high volatility with a net-zero outcome, making active entry unadvisable at this time.",UP,4.32e-06,WRONG,0.0000%
+2025-12-14 18:48:52,BTCUSDT,89898.76,BUY,"Execute a defensive hold strategy (Action 0), as similar historical market conditions yielded a net negative expectancy for active entry (Action 1) with losses outweighing gains.",UP,89843.35,WRONG,-0.0616%
+2025-12-14 18:48:52,ETHUSDT,3104.98,BUY,"Maintain a neutral stance to preserve capital, as similar historical patterns indicate that active positioning in current conditions yields negligible returns.",UP,3105.73,CORRECT,0.0242%
+2025-12-14 18:48:52,BNBUSDT,893.21,BUY,"Exercise extreme caution and adopt a defensive Hold strategy, as executing Action 1 in similar historical states yields a net negative expected return driven by significant downside volatility.",UP,893.43,CORRECT,0.0246%
+2025-12-14 18:48:52,SOLUSDT,131.81,BUY,"Prioritize a defensive strategy by executing Action 0 (Sell/Hold), as historical data in similar market states shows it yielding significantly higher average rewards compared to the negligible returns of Action 1.",UP,131.81,WRONG,0.0000%
+2025-12-14 18:48:52,PEPEUSDT,4.32e-06,BUY,"Given that Action 1 resulted in a net negative expected return (averaging -1.8%) in similar historical conditions, the optimal strategy is to **Hold (Action 0)** to avoid confirmed downside risk.",UP,4.31e-06,WRONG,-0.2315%
+2025-12-14 18:51:52,BTCUSDT,89843.35,BUY,"Given that similar historical market conditions yielded a net negative reward for Action 1, the recommended strategy is to **Hold (Action 0)** to mitigate risk.",UP,89865.45,CORRECT,0.0246%
+2025-12-14 18:51:52,ETHUSDT,3105.5,BUY,"Remain neutral and avoid entering a position, as similar historical setups indicate a negative expected value with losses significantly outweighing potential gains.",UP,3107.43,CORRECT,0.0621%
+2025-12-14 18:51:52,BNBUSDT,893.9,BUY,"Adopt a defensive stance by executing Action 0, as similar overextended market conditions have historically yielded a maximum reward of 1.0 for this move compared to the negligible returns associated with Action 1.",UP,893.2,WRONG,-0.0783%
+2025-12-14 18:51:52,SOLUSDT,131.85,BUY,"Adopt a defensive neutral strategy, as similar past outcomes show a net negative expectancy where the risk of significant drawdown (-6%) outweighs the probability of frequent but minor gains.",UP,131.83,WRONG,-0.0152%
+2025-12-14 18:51:52,PEPEUSDT,4.32e-06,BUY,"Execute a long position, as the current high-signal market state (indicated by values of 1.0) matches historical patterns that previously yielded significant positive returns up to 6.8%.",UP,4.31e-06,WRONG,-0.2315%
+2025-12-14 18:54:47,BTCUSDT,89865.45,BUY,"Given that similar historical setups show a negative net expectancy where downside volatility (-5.8%) outweighs the limited upside (+2.2%), the recommended strategy is to **HOLD**.",UP,89849.21,WRONG,-0.0181%
+2025-12-14 18:54:47,ETHUSDT,3107.03,BUY,"Execute a defensive Hold or Short strategy, as similar historical market states yielded a net negative reward for aggressive buying (Action 1).",UP,3107.73,CORRECT,0.0225%
+2025-12-14 18:54:47,BNBUSDT,892.89,BUY,"Execute Action 1 to capitalize on asymmetric upside potential, as the significant 23% historical gain drives a positive expected value that outweighs the risk of minor drawdowns.",UP,892.83,WRONG,-0.0067%
+2025-12-14 18:54:47,SOLUSDT,131.7,BUY,"Adopt Action 0, as historical precedents in similar market conditions demonstrate it yields significant positive rewards (up to 1.0), contrasting with the losses incurred by Action 1.",UP,131.76,CORRECT,0.0456%
+2025-12-14 18:54:47,PEPEUSDT,4.32e-06,BUY,"**Strategy:** Execute **Action 0 (Hold/Defensive)**, as historical data for this market state shows Action 1 results in a negative expected value (average loss of ~8%) while Action 0 consistently preserves capital.",UP,4.32e-06,WRONG,0.0000%
+2025-12-14 18:57:37,BTCUSDT,89849.21,BUY,"Shift strategy to **Action 0** (likely Hold or Sell), as historical data indicates this move yields a maximal reward of 1.0 in similar conditions, vastly outperforming the mixed volatility and negligible returns associated with Action 1.",UP,89795.51,WRONG,-0.0598%
+2025-12-14 18:57:37,ETHUSDT,3107.73,BUY,"**Strategy: Hold or Sell**, as the saturated market state vector matches historical patterns where aggressive entries (Action 1) resulted in losses (-1.8% to -10.4%) while defensive positioning (Action 0) yielded positive stability.",UP,3105.42,WRONG,-0.0743%
+2025-12-14 18:57:37,BNBUSDT,893.1,BUY,"Based on the saturated market state indicator (0.99) and a net negative historical expectancy (-1.3%) for aggressive actions in similar scenarios, the recommended strategy is to **Hold (Action 0)** to avoid potential downside volatility.",UP,892.46,WRONG,-0.0717%
+2025-12-14 18:57:37,SOLUSDT,131.78,BUY,"Strategy: **Hold**, as the prevalence of zero-value outcomes in similar historical scenarios indicates a low probability of profit despite the elevated state metrics.",UP,131.73,WRONG,-0.0379%
+2025-12-14 18:57:37,PEPEUSDT,4.31e-06,BUY,"Execute Action 1 (Long), as similar high-momentum market states indicate a positive expected value where the cumulative upside potential (+0.068) significantly outweighs the historical downside risk (-0.018).",UP,4.31e-06,WRONG,0.0000%
+2025-12-14 19:01:18,BTCUSDT,89795.51,BUY,"Execute **Action 0 (Neutral/Hold)**, as the similar past outcomes for Action 1 demonstrate a negative expected value with significant losses (-12% and -9%) outweighing the minor gain (+2%).",UP,89823.91,CORRECT,0.0316%
+2025-12-14 19:01:18,ETHUSDT,3106.17,BUY,"Initiate a cautious long position (Action 1) to capitalize on a net positive historical expectancy and majority win rate, while employing strict stop-losses to mitigate the significant downside volatility observed in similar market states.",UP,3106.24,CORRECT,0.0023%
+2025-12-14 19:01:18,BNBUSDT,892.9,BUY,"Execute a long position (Action 1) as the aggregate historical reward is positive (+0.033) across similar market states, outweighing the singular drawdown risk.",UP,892.64,WRONG,-0.0291%
+2025-12-14 19:01:18,SOLUSDT,131.77,BUY,"Adopt a defensive **Hold** strategy, as executing Action 1 in similar past market states consistently yielded negative or stagnant returns.",UP,131.75,WRONG,-0.0152%
+2025-12-14 19:01:18,PEPEUSDT,4.31e-06,BUY,"Based on the recurrence of **Action 1** in similar states yielding a net positive expectancy driven by a significant outlier reward (+0.18) versus minor losses, the strategy is to **enter a long position (Action 1)** to capture asymmetric upside potential.",UP,4.31e-06,WRONG,0.0000%
+2025-12-14 19:04:11,BTCUSDT,89816.64,BUY,"Execute Action 1, as the historical asymmetric upside (+0.10) justifies the volatility risk (-0.05) presented in the current high-momentum market state.",UP,89726.63,WRONG,-0.1002%
+2025-12-14 19:04:11,ETHUSDT,3104.58,BUY,"Execute **Action 0** (Exit/Neutral), as similar historical states indicate that active exposure carries a negative risk asymmetry with a 5.6% downside potential compared to the positive stability of a neutral position.",UP,3104.53,WRONG,-0.0016%
+2025-12-14 19:04:11,BNBUSDT,892.11,BUY,"Error: 429 You exceeded your current quota, please check your plan and billing details. For more information on this error, head to: https://ai.google.dev/gemini-api/docs/rate-limits. To monitor your current usage, head to: https://ai.dev/usage?tab=rate-limit. 
+* Quota exceeded for metric: generativelanguage.googleapis.com/generate_requests_per_model_per_day, limit: 0 [links {
+  description: ""Learn more about Gemini API quotas""
+  url: ""https://ai.google.dev/gemini-api/docs/rate-limits""
+}
+, violations {
+  quota_metric: ""generativelanguage.googleapis.com/generate_requests_per_model_per_day""
+  quota_id: ""GenerateRequestsPerDayPerProjectPerModel""
+}
+]",UP,892.55,CORRECT,0.0493%
+2025-12-14 19:04:11,SOLUSDT,131.69,BUY,"Error: 429 You exceeded your current quota, please check your plan and billing details. For more information on this error, head to: https://ai.google.dev/gemini-api/docs/rate-limits. To monitor your current usage, head to: https://ai.dev/usage?tab=rate-limit. 
+* Quota exceeded for metric: generativelanguage.googleapis.com/generate_requests_per_model_per_day, limit: 0 [links {
+  description: ""Learn more about Gemini API quotas""
+  url: ""https://ai.google.dev/gemini-api/docs/rate-limits""
+}
+, violations {
+  quota_metric: ""generativelanguage.googleapis.com/generate_requests_per_model_per_day""
+  quota_id: ""GenerateRequestsPerDayPerProjectPerModel""
+}
+]",UP,131.77,CORRECT,0.0607%
+2025-12-14 19:04:11,PEPEUSDT,4.31e-06,BUY,"Error: 429 You exceeded your current quota, please check your plan and billing details. For more information on this error, head to: https://ai.google.dev/gemini-api/docs/rate-limits. To monitor your current usage, head to: https://ai.dev/usage?tab=rate-limit. 
+* Quota exceeded for metric: generativelanguage.googleapis.com/generate_requests_per_model_per_day, limit: 0 [links {
+  description: ""Learn more about Gemini API quotas""
+  url: ""https://ai.google.dev/gemini-api/docs/rate-limits""
+}
+, violations {
+  quota_metric: ""generativelanguage.googleapis.com/generate_requests_per_model_per_day""
+  quota_id: ""GenerateRequestsPerDayPerProjectPerModel""
+}
+]",UP,4.31e-06,WRONG,0.0000%
+2025-12-14 19:06:04,BTCUSDT,89720.98,BUY,"Error: 429 You exceeded your current quota, please check your plan and billing details. For more information on this error, head to: https://ai.google.dev/gemini-api/docs/rate-limits. To monitor your current usage, head to: https://ai.dev/usage?tab=rate-limit. 
+* Quota exceeded for metric: generativelanguage.googleapis.com/generate_requests_per_model_per_day, limit: 0 [links {
+  description: ""Learn more about Gemini API quotas""
+  url: ""https://ai.google.dev/gemini-api/docs/rate-limits""
+}
+, violations {
+  quota_metric: ""generativelanguage.googleapis.com/generate_requests_per_model_per_day""
+  quota_id: ""GenerateRequestsPerDayPerProjectPerModel""
+}
+]",UP,89716.42,WRONG,-0.0051%
+2025-12-14 19:06:04,ETHUSDT,3104.53,BUY,"Error: 429 You exceeded your current quota, please check your plan and billing details. For more information on this error, head to: https://ai.google.dev/gemini-api/docs/rate-limits. To monitor your current usage, head to: https://ai.dev/usage?tab=rate-limit. 
+* Quota exceeded for metric: generativelanguage.googleapis.com/generate_requests_per_model_per_day, limit: 0 [links {
+  description: ""Learn more about Gemini API quotas""
+  url: ""https://ai.google.dev/gemini-api/docs/rate-limits""
+}
+, violations {
+  quota_metric: ""generativelanguage.googleapis.com/generate_requests_per_model_per_day""
+  quota_id: ""GenerateRequestsPerDayPerProjectPerModel""
+}
+]",UP,3103.24,WRONG,-0.0416%
+2025-12-14 19:06:04,BNBUSDT,892.55,BUY,"Error: 429 You exceeded your current quota, please check your plan and billing details. For more information on this error, head to: https://ai.google.dev/gemini-api/docs/rate-limits. To monitor your current usage, head to: https://ai.dev/usage?tab=rate-limit. 
+* Quota exceeded for metric: generativelanguage.googleapis.com/generate_requests_per_model_per_day, limit: 0 [links {
+  description: ""Learn more about Gemini API quotas""
+  url: ""https://ai.google.dev/gemini-api/docs/rate-limits""
+}
+, violations {
+  quota_metric: ""generativelanguage.googleapis.com/generate_requests_per_model_per_day""
+  quota_id: ""GenerateRequestsPerDayPerProjectPerModel""
+}
+]",UP,892.36,WRONG,-0.0213%
+2025-12-14 19:06:04,SOLUSDT,131.77,BUY,"Error: 429 You exceeded your current quota, please check your plan and billing details. For more information on this error, head to: https://ai.google.dev/gemini-api/docs/rate-limits. To monitor your current usage, head to: https://ai.dev/usage?tab=rate-limit. 
+* Quota exceeded for metric: generativelanguage.googleapis.com/generate_requests_per_model_per_day, limit: 0 [links {
+  description: ""Learn more about Gemini API quotas""
+  url: ""https://ai.google.dev/gemini-api/docs/rate-limits""
+}
+, violations {
+  quota_metric: ""generativelanguage.googleapis.com/generate_requests_per_model_per_day""
+  quota_id: ""GenerateRequestsPerDayPerProjectPerModel""
+}
+]",UP,131.76,WRONG,-0.0076%
+2025-12-14 19:06:04,PEPEUSDT,4.31e-06,BUY,"Error: 429 You exceeded your current quota, please check your plan and billing details. For more information on this error, head to: https://ai.google.dev/gemini-api/docs/rate-limits. To monitor your current usage, head to: https://ai.dev/usage?tab=rate-limit. 
+* Quota exceeded for metric: generativelanguage.googleapis.com/generate_requests_per_model_per_day, limit: 0 [links {
+  description: ""Learn more about Gemini API quotas""
+  url: ""https://ai.google.dev/gemini-api/docs/rate-limits""
+}
+, violations {
+  quota_metric: ""generativelanguage.googleapis.com/generate_requests_per_model_per_day""
+  quota_id: ""GenerateRequestsPerDayPerProjectPerModel""
+}
+]",UP,4.31e-06,WRONG,0.0000%
+2025-12-14 19:07:05,BTCUSDT,89716.41,BUY,"Error: 429 You exceeded your current quota, please check your plan and billing details. For more information on this error, head to: https://ai.google.dev/gemini-api/docs/rate-limits. To monitor your current usage, head to: https://ai.dev/usage?tab=rate-limit. 
+* Quota exceeded for metric: generativelanguage.googleapis.com/generate_requests_per_model_per_day, limit: 0 [links {
+  description: ""Learn more about Gemini API quotas""
+  url: ""https://ai.google.dev/gemini-api/docs/rate-limits""
+}
+, violations {
+  quota_metric: ""generativelanguage.googleapis.com/generate_requests_per_model_per_day""
+  quota_id: ""GenerateRequestsPerDayPerProjectPerModel""
+}
+]",UP,89721.34,CORRECT,0.0055%
+2025-12-14 19:07:05,ETHUSDT,3103.24,BUY,"Error: 429 You exceeded your current quota, please check your plan and billing details. For more information on this error, head to: https://ai.google.dev/gemini-api/docs/rate-limits. To monitor your current usage, head to: https://ai.dev/usage?tab=rate-limit. 
+* Quota exceeded for metric: generativelanguage.googleapis.com/generate_requests_per_model_per_day, limit: 0 [links {
+  description: ""Learn more about Gemini API quotas""
+  url: ""https://ai.google.dev/gemini-api/docs/rate-limits""
+}
+, violations {
+  quota_metric: ""generativelanguage.googleapis.com/generate_requests_per_model_per_day""
+  quota_id: ""GenerateRequestsPerDayPerProjectPerModel""
+}
+]",UP,3102.93,WRONG,-0.0100%
+2025-12-14 19:07:05,BNBUSDT,892.36,BUY,"Error: 429 You exceeded your current quota, please check your plan and billing details. For more information on this error, head to: https://ai.google.dev/gemini-api/docs/rate-limits. To monitor your current usage, head to: https://ai.dev/usage?tab=rate-limit. 
+* Quota exceeded for metric: generativelanguage.googleapis.com/generate_requests_per_model_per_day, limit: 0 [links {
+  description: ""Learn more about Gemini API quotas""
+  url: ""https://ai.google.dev/gemini-api/docs/rate-limits""
+}
+, violations {
+  quota_metric: ""generativelanguage.googleapis.com/generate_requests_per_model_per_day""
+  quota_id: ""GenerateRequestsPerDayPerProjectPerModel""
+}
+]",UP,892.45,CORRECT,0.0101%
+2025-12-14 19:07:05,SOLUSDT,131.74,BUY,"Error: 429 You exceeded your current quota, please check your plan and billing details. For more information on this error, head to: https://ai.google.dev/gemini-api/docs/rate-limits. To monitor your current usage, head to: https://ai.dev/usage?tab=rate-limit. 
+* Quota exceeded for metric: generativelanguage.googleapis.com/generate_requests_per_model_per_day, limit: 0 [links {
+  description: ""Learn more about Gemini API quotas""
+  url: ""https://ai.google.dev/gemini-api/docs/rate-limits""
+}
+, violations {
+  quota_metric: ""generativelanguage.googleapis.com/generate_requests_per_model_per_day""
+  quota_id: ""GenerateRequestsPerDayPerProjectPerModel""
+}
+]",UP,131.75,CORRECT,0.0076%
+2025-12-14 19:07:05,PEPEUSDT,4.31e-06,BUY,"Error: 429 You exceeded your current quota, please check your plan and billing details. For more information on this error, head to: https://ai.google.dev/gemini-api/docs/rate-limits. To monitor your current usage, head to: https://ai.dev/usage?tab=rate-limit. 
+* Quota exceeded for metric: generativelanguage.googleapis.com/generate_requests_per_model_per_day, limit: 0 [links {
+  description: ""Learn more about Gemini API quotas""
+  url: ""https://ai.google.dev/gemini-api/docs/rate-limits""
+}
+, violations {
+  quota_metric: ""generativelanguage.googleapis.com/generate_requests_per_model_per_day""
+  quota_id: ""GenerateRequestsPerDayPerProjectPerModel""
+}
+]",UP,4.31e-06,WRONG,0.0000%
+2025-12-14 19:08:07,BTCUSDT,89721.34,BUY,"Error: 429 You exceeded your current quota, please check your plan and billing details. For more information on this error, head to: https://ai.google.dev/gemini-api/docs/rate-limits. To monitor your current usage, head to: https://ai.dev/usage?tab=rate-limit. 
+* Quota exceeded for metric: generativelanguage.googleapis.com/generate_requests_per_model_per_day, limit: 0 [links {
+  description: ""Learn more about Gemini API quotas""
+  url: ""https://ai.google.dev/gemini-api/docs/rate-limits""
+}
+, violations {
+  quota_metric: ""generativelanguage.googleapis.com/generate_requests_per_model_per_day""
+  quota_id: ""GenerateRequestsPerDayPerProjectPerModel""
+}
+]",UP,89726.78,CORRECT,0.0061%
+2025-12-14 19:08:07,ETHUSDT,3102.93,BUY,"Error: 429 You exceeded your current quota, please check your plan and billing details. For more information on this error, head to: https://ai.google.dev/gemini-api/docs/rate-limits. To monitor your current usage, head to: https://ai.dev/usage?tab=rate-limit. 
+* Quota exceeded for metric: generativelanguage.googleapis.com/generate_requests_per_model_per_day, limit: 0 [links {
+  description: ""Learn more about Gemini API quotas""
+  url: ""https://ai.google.dev/gemini-api/docs/rate-limits""
+}
+, violations {
+  quota_metric: ""generativelanguage.googleapis.com/generate_requests_per_model_per_day""
+  quota_id: ""GenerateRequestsPerDayPerProjectPerModel""
+}
+]",UP,3104.0,CORRECT,0.0345%
+2025-12-14 19:08:07,BNBUSDT,892.45,BUY,"Error: 429 You exceeded your current quota, please check your plan and billing details. For more information on this error, head to: https://ai.google.dev/gemini-api/docs/rate-limits. To monitor your current usage, head to: https://ai.dev/usage?tab=rate-limit. 
+* Quota exceeded for metric: generativelanguage.googleapis.com/generate_requests_per_model_per_day, limit: 0 [links {
+  description: ""Learn more about Gemini API quotas""
+  url: ""https://ai.google.dev/gemini-api/docs/rate-limits""
+}
+, violations {
+  quota_metric: ""generativelanguage.googleapis.com/generate_requests_per_model_per_day""
+  quota_id: ""GenerateRequestsPerDayPerProjectPerModel""
+}
+]",UP,892.66,CORRECT,0.0235%
+2025-12-14 19:08:07,SOLUSDT,131.75,BUY,"Error: 429 You exceeded your current quota, please check your plan and billing details. For more information on this error, head to: https://ai.google.dev/gemini-api/docs/rate-limits. To monitor your current usage, head to: https://ai.dev/usage?tab=rate-limit. 
+* Quota exceeded for metric: generativelanguage.googleapis.com/generate_requests_per_model_per_day, limit: 0 [links {
+  description: ""Learn more about Gemini API quotas""
+  url: ""https://ai.google.dev/gemini-api/docs/rate-limits""
+}
+, violations {
+  quota_metric: ""generativelanguage.googleapis.com/generate_requests_per_model_per_day""
+  quota_id: ""GenerateRequestsPerDayPerProjectPerModel""
+}
+]",UP,131.74,WRONG,-0.0076%
+2025-12-14 19:08:07,PEPEUSDT,4.32e-06,BUY,"Error: 429 You exceeded your current quota, please check your plan and billing details. For more information on this error, head to: https://ai.google.dev/gemini-api/docs/rate-limits. To monitor your current usage, head to: https://ai.dev/usage?tab=rate-limit. 
+* Quota exceeded for metric: generativelanguage.googleapis.com/generate_requests_per_model_per_day, limit: 0 [links {
+  description: ""Learn more about Gemini API quotas""
+  url: ""https://ai.google.dev/gemini-api/docs/rate-limits""
+}
+, violations {
+  quota_metric: ""generativelanguage.googleapis.com/generate_requests_per_model_per_day""
+  quota_id: ""GenerateRequestsPerDayPerProjectPerModel""
+}
+]",UP,4.31e-06,WRONG,-0.2315%
+2025-12-14 19:09:08,BTCUSDT,89726.78,BUY,"Error: 429 You exceeded your current quota, please check your plan and billing details. For more information on this error, head to: https://ai.google.dev/gemini-api/docs/rate-limits. To monitor your current usage, head to: https://ai.dev/usage?tab=rate-limit. 
+* Quota exceeded for metric: generativelanguage.googleapis.com/generate_requests_per_model_per_day, limit: 0 [links {
+  description: ""Learn more about Gemini API quotas""
+  url: ""https://ai.google.dev/gemini-api/docs/rate-limits""
+}
+, violations {
+  quota_metric: ""generativelanguage.googleapis.com/generate_requests_per_model_per_day""
+  quota_id: ""GenerateRequestsPerDayPerProjectPerModel""
+}
+]",UP,89724.62,WRONG,-0.0024%
+2025-12-14 19:09:08,ETHUSDT,3103.54,BUY,"Error: 429 You exceeded your current quota, please check your plan and billing details. For more information on this error, head to: https://ai.google.dev/gemini-api/docs/rate-limits. To monitor your current usage, head to: https://ai.dev/usage?tab=rate-limit. 
+* Quota exceeded for metric: generativelanguage.googleapis.com/generate_requests_per_model_per_day, limit: 0 [links {
+  description: ""Learn more about Gemini API quotas""
+  url: ""https://ai.google.dev/gemini-api/docs/rate-limits""
+}
+, violations {
+  quota_metric: ""generativelanguage.googleapis.com/generate_requests_per_model_per_day""
+  quota_id: ""GenerateRequestsPerDayPerProjectPerModel""
+}
+]",UP,3103.12,WRONG,-0.0135%
+2025-12-14 19:09:08,BNBUSDT,892.51,BUY,"Error: 429 You exceeded your current quota, please check your plan and billing details. For more information on this error, head to: https://ai.google.dev/gemini-api/docs/rate-limits. To monitor your current usage, head to: https://ai.dev/usage?tab=rate-limit. 
+* Quota exceeded for metric: generativelanguage.googleapis.com/generate_requests_per_model_per_day, limit: 0 [links {
+  description: ""Learn more about Gemini API quotas""
+  url: ""https://ai.google.dev/gemini-api/docs/rate-limits""
+}
+, violations {
+  quota_metric: ""generativelanguage.googleapis.com/generate_requests_per_model_per_day""
+  quota_id: ""GenerateRequestsPerDayPerProjectPerModel""
+}
+]",UP,892.5,WRONG,-0.0011%
+2025-12-14 19:09:08,SOLUSDT,131.7,BUY,"Error: 429 You exceeded your current quota, please check your plan and billing details. For more information on this error, head to: https://ai.google.dev/gemini-api/docs/rate-limits. To monitor your current usage, head to: https://ai.dev/usage?tab=rate-limit. 
+* Quota exceeded for metric: generativelanguage.googleapis.com/generate_requests_per_model_per_day, limit: 0 [links {
+  description: ""Learn more about Gemini API quotas""
+  url: ""https://ai.google.dev/gemini-api/docs/rate-limits""
+}
+, violations {
+  quota_metric: ""generativelanguage.googleapis.com/generate_requests_per_model_per_day""
+  quota_id: ""GenerateRequestsPerDayPerProjectPerModel""
+}
+]",UP,131.69,WRONG,-0.0076%
+2025-12-14 19:09:08,PEPEUSDT,4.31e-06,BUY,"Error: 429 You exceeded your current quota, please check your plan and billing details. For more information on this error, head to: https://ai.google.dev/gemini-api/docs/rate-limits. To monitor your current usage, head to: https://ai.dev/usage?tab=rate-limit. 
+* Quota exceeded for metric: generativelanguage.googleapis.com/generate_requests_per_model_per_day, limit: 0 [links {
+  description: ""Learn more about Gemini API quotas""
+  url: ""https://ai.google.dev/gemini-api/docs/rate-limits""
+}
+, violations {
+  quota_metric: ""generativelanguage.googleapis.com/generate_requests_per_model_per_day""
+  quota_id: ""GenerateRequestsPerDayPerProjectPerModel""
+}
+]",UP,4.31e-06,WRONG,0.0000%
+2025-12-14 19:10:10,BTCUSDT,89724.62,BUY,"Error: 429 You exceeded your current quota, please check your plan and billing details. For more information on this error, head to: https://ai.google.dev/gemini-api/docs/rate-limits. To monitor your current usage, head to: https://ai.dev/usage?tab=rate-limit. 
+* Quota exceeded for metric: generativelanguage.googleapis.com/generate_requests_per_model_per_day, limit: 0 [links {
+  description: ""Learn more about Gemini API quotas""
+  url: ""https://ai.google.dev/gemini-api/docs/rate-limits""
+}
+, violations {
+  quota_metric: ""generativelanguage.googleapis.com/generate_requests_per_model_per_day""
+  quota_id: ""GenerateRequestsPerDayPerProjectPerModel""
+}
+]",UP,89730.3,CORRECT,0.0063%
+2025-12-14 19:10:10,ETHUSDT,3103.12,BUY,"Error: 429 You exceeded your current quota, please check your plan and billing details. For more information on this error, head to: https://ai.google.dev/gemini-api/docs/rate-limits. To monitor your current usage, head to: https://ai.dev/usage?tab=rate-limit. 
+* Quota exceeded for metric: generativelanguage.googleapis.com/generate_requests_per_model_per_day, limit: 0 [links {
+  description: ""Learn more about Gemini API quotas""
+  url: ""https://ai.google.dev/gemini-api/docs/rate-limits""
+}
+, violations {
+  quota_metric: ""generativelanguage.googleapis.com/generate_requests_per_model_per_day""
+  quota_id: ""GenerateRequestsPerDayPerProjectPerModel""
+}
+]",UP,3104.25,CORRECT,0.0364%
+2025-12-14 19:10:10,BNBUSDT,892.49,BUY,"Error: 429 You exceeded your current quota, please check your plan and billing details. For more information on this error, head to: https://ai.google.dev/gemini-api/docs/rate-limits. To monitor your current usage, head to: https://ai.dev/usage?tab=rate-limit. 
+* Quota exceeded for metric: generativelanguage.googleapis.com/generate_requests_per_model_per_day, limit: 0 [links {
+  description: ""Learn more about Gemini API quotas""
+  url: ""https://ai.google.dev/gemini-api/docs/rate-limits""
+}
+, violations {
+  quota_metric: ""generativelanguage.googleapis.com/generate_requests_per_model_per_day""
+  quota_id: ""GenerateRequestsPerDayPerProjectPerModel""
+}
+]",UP,892.6,CORRECT,0.0123%
+2025-12-14 19:10:10,SOLUSDT,131.69,BUY,"Error: 429 You exceeded your current quota, please check your plan and billing details. For more information on this error, head to: https://ai.google.dev/gemini-api/docs/rate-limits. To monitor your current usage, head to: https://ai.dev/usage?tab=rate-limit. 
+* Quota exceeded for metric: generativelanguage.googleapis.com/generate_requests_per_model_per_day, limit: 0 [links {
+  description: ""Learn more about Gemini API quotas""
+  url: ""https://ai.google.dev/gemini-api/docs/rate-limits""
+}
+, violations {
+  quota_metric: ""generativelanguage.googleapis.com/generate_requests_per_model_per_day""
+  quota_id: ""GenerateRequestsPerDayPerProjectPerModel""
+}
+]",UP,131.75,CORRECT,0.0456%
+2025-12-14 19:10:10,PEPEUSDT,4.31e-06,BUY,"Error: 429 You exceeded your current quota, please check your plan and billing details. For more information on this error, head to: https://ai.google.dev/gemini-api/docs/rate-limits. To monitor your current usage, head to: https://ai.dev/usage?tab=rate-limit. 
+* Quota exceeded for metric: generativelanguage.googleapis.com/generate_requests_per_model_per_day, limit: 0 [links {
+  description: ""Learn more about Gemini API quotas""
+  url: ""https://ai.google.dev/gemini-api/docs/rate-limits""
+}
+, violations {
+  quota_metric: ""generativelanguage.googleapis.com/generate_requests_per_model_per_day""
+  quota_id: ""GenerateRequestsPerDayPerProjectPerModel""
+}
+]",UP,4.3e-06,WRONG,-0.2320%
+2025-12-14 19:11:11,BTCUSDT,89730.3,BUY,"Error: 429 You exceeded your current quota, please check your plan and billing details. For more information on this error, head to: https://ai.google.dev/gemini-api/docs/rate-limits. To monitor your current usage, head to: https://ai.dev/usage?tab=rate-limit. 
+* Quota exceeded for metric: generativelanguage.googleapis.com/generate_requests_per_model_per_day, limit: 0 [links {
+  description: ""Learn more about Gemini API quotas""
+  url: ""https://ai.google.dev/gemini-api/docs/rate-limits""
+}
+, violations {
+  quota_metric: ""generativelanguage.googleapis.com/generate_requests_per_model_per_day""
+  quota_id: ""GenerateRequestsPerDayPerProjectPerModel""
+}
+]",UP,89722.68,WRONG,-0.0085%
+2025-12-14 19:11:11,ETHUSDT,3104.25,BUY,"Error: 429 You exceeded your current quota, please check your plan and billing details. For more information on this error, head to: https://ai.google.dev/gemini-api/docs/rate-limits. To monitor your current usage, head to: https://ai.dev/usage?tab=rate-limit. 
+* Quota exceeded for metric: generativelanguage.googleapis.com/generate_requests_per_model_per_day, limit: 0 [links {
+  description: ""Learn more about Gemini API quotas""
+  url: ""https://ai.google.dev/gemini-api/docs/rate-limits""
+}
+, violations {
+  quota_metric: ""generativelanguage.googleapis.com/generate_requests_per_model_per_day""
+  quota_id: ""GenerateRequestsPerDayPerProjectPerModel""
+}
+]",UP,3103.91,WRONG,-0.0110%
+2025-12-14 19:11:11,BNBUSDT,892.59,BUY,"Error: 429 You exceeded your current quota, please check your plan and billing details. For more information on this error, head to: https://ai.google.dev/gemini-api/docs/rate-limits. To monitor your current usage, head to: https://ai.dev/usage?tab=rate-limit. 
+* Quota exceeded for metric: generativelanguage.googleapis.com/generate_requests_per_model_per_day, limit: 0 [links {
+  description: ""Learn more about Gemini API quotas""
+  url: ""https://ai.google.dev/gemini-api/docs/rate-limits""
+}
+, violations {
+  quota_metric: ""generativelanguage.googleapis.com/generate_requests_per_model_per_day""
+  quota_id: ""GenerateRequestsPerDayPerProjectPerModel""
+}
+]",UP,892.69,CORRECT,0.0112%
+2025-12-14 19:11:11,SOLUSDT,131.75,BUY,"Error: 429 You exceeded your current quota, please check your plan and billing details. For more information on this error, head to: https://ai.google.dev/gemini-api/docs/rate-limits. To monitor your current usage, head to: https://ai.dev/usage?tab=rate-limit. 
+* Quota exceeded for metric: generativelanguage.googleapis.com/generate_requests_per_model_per_day, limit: 0 [links {
+  description: ""Learn more about Gemini API quotas""
+  url: ""https://ai.google.dev/gemini-api/docs/rate-limits""
+}
+, violations {
+  quota_metric: ""generativelanguage.googleapis.com/generate_requests_per_model_per_day""
+  quota_id: ""GenerateRequestsPerDayPerProjectPerModel""
+}
+]",UP,131.74,WRONG,-0.0076%
+2025-12-14 19:11:11,PEPEUSDT,4.3e-06,BUY,"Error: 429 You exceeded your current quota, please check your plan and billing details. For more information on this error, head to: https://ai.google.dev/gemini-api/docs/rate-limits. To monitor your current usage, head to: https://ai.dev/usage?tab=rate-limit. 
+* Quota exceeded for metric: generativelanguage.googleapis.com/generate_requests_per_model_per_day, limit: 0 [links {
+  description: ""Learn more about Gemini API quotas""
+  url: ""https://ai.google.dev/gemini-api/docs/rate-limits""
+}
+, violations {
+  quota_metric: ""generativelanguage.googleapis.com/generate_requests_per_model_per_day""
+  quota_id: ""GenerateRequestsPerDayPerProjectPerModel""
+}
+]",UP,4.3e-06,WRONG,0.0000%
+2025-12-14 19:12:12,BTCUSDT,89722.68,BUY,"Error: 429 You exceeded your current quota, please check your plan and billing details. For more information on this error, head to: https://ai.google.dev/gemini-api/docs/rate-limits. To monitor your current usage, head to: https://ai.dev/usage?tab=rate-limit. 
+* Quota exceeded for metric: generativelanguage.googleapis.com/generate_requests_per_model_per_day, limit: 0 [links {
+  description: ""Learn more about Gemini API quotas""
+  url: ""https://ai.google.dev/gemini-api/docs/rate-limits""
+}
+, violations {
+  quota_metric: ""generativelanguage.googleapis.com/generate_requests_per_model_per_day""
+  quota_id: ""GenerateRequestsPerDayPerProjectPerModel""
+}
+]",UP,89677.19,WRONG,-0.0507%
+2025-12-14 19:12:12,ETHUSDT,3103.91,BUY,"Error: 429 You exceeded your current quota, please check your plan and billing details. For more information on this error, head to: https://ai.google.dev/gemini-api/docs/rate-limits. To monitor your current usage, head to: https://ai.dev/usage?tab=rate-limit. 
+* Quota exceeded for metric: generativelanguage.googleapis.com/generate_requests_per_model_per_day, limit: 0 [links {
+  description: ""Learn more about Gemini API quotas""
+  url: ""https://ai.google.dev/gemini-api/docs/rate-limits""
+}
+, violations {
+  quota_metric: ""generativelanguage.googleapis.com/generate_requests_per_model_per_day""
+  quota_id: ""GenerateRequestsPerDayPerProjectPerModel""
+}
+]",UP,3101.24,WRONG,-0.0860%
+2025-12-14 19:12:12,BNBUSDT,892.69,BUY,"Error: 429 You exceeded your current quota, please check your plan and billing details. For more information on this error, head to: https://ai.google.dev/gemini-api/docs/rate-limits. To monitor your current usage, head to: https://ai.dev/usage?tab=rate-limit. 
+* Quota exceeded for metric: generativelanguage.googleapis.com/generate_requests_per_model_per_day, limit: 0 [links {
+  description: ""Learn more about Gemini API quotas""
+  url: ""https://ai.google.dev/gemini-api/docs/rate-limits""
+}
+, violations {
+  quota_metric: ""generativelanguage.googleapis.com/generate_requests_per_model_per_day""
+  quota_id: ""GenerateRequestsPerDayPerProjectPerModel""
+}
+]",UP,892.32,WRONG,-0.0414%
+2025-12-14 19:12:12,SOLUSDT,131.74,BUY,"Error: 429 You exceeded your current quota, please check your plan and billing details. For more information on this error, head to: https://ai.google.dev/gemini-api/docs/rate-limits. To monitor your current usage, head to: https://ai.dev/usage?tab=rate-limit. 
+* Quota exceeded for metric: generativelanguage.googleapis.com/generate_requests_per_model_per_day, limit: 0 [links {
+  description: ""Learn more about Gemini API quotas""
+  url: ""https://ai.google.dev/gemini-api/docs/rate-limits""
+}
+, violations {
+  quota_metric: ""generativelanguage.googleapis.com/generate_requests_per_model_per_day""
+  quota_id: ""GenerateRequestsPerDayPerProjectPerModel""
+}
+]",UP,131.6,WRONG,-0.1063%
+2025-12-14 19:12:12,PEPEUSDT,4.3e-06,BUY,"Error: 429 You exceeded your current quota, please check your plan and billing details. For more information on this error, head to: https://ai.google.dev/gemini-api/docs/rate-limits. To monitor your current usage, head to: https://ai.dev/usage?tab=rate-limit. 
+* Quota exceeded for metric: generativelanguage.googleapis.com/generate_requests_per_model_per_day, limit: 0 [links {
+  description: ""Learn more about Gemini API quotas""
+  url: ""https://ai.google.dev/gemini-api/docs/rate-limits""
+}
+, violations {
+  quota_metric: ""generativelanguage.googleapis.com/generate_requests_per_model_per_day""
+  quota_id: ""GenerateRequestsPerDayPerProjectPerModel""
+}
+]",UP,4.29e-06,WRONG,-0.2326%
+2025-12-14 19:13:14,BTCUSDT,89677.19,BUY,"Error: 429 You exceeded your current quota, please check your plan and billing details. For more information on this error, head to: https://ai.google.dev/gemini-api/docs/rate-limits. To monitor your current usage, head to: https://ai.dev/usage?tab=rate-limit. 
+* Quota exceeded for metric: generativelanguage.googleapis.com/generate_requests_per_model_per_day, limit: 0 [links {
+  description: ""Learn more about Gemini API quotas""
+  url: ""https://ai.google.dev/gemini-api/docs/rate-limits""
+}
+, violations {
+  quota_metric: ""generativelanguage.googleapis.com/generate_requests_per_model_per_day""
+  quota_id: ""GenerateRequestsPerDayPerProjectPerModel""
+}
+]",UP,89686.9,CORRECT,0.0108%
+2025-12-14 19:13:14,ETHUSDT,3101.01,BUY,"Error: 429 You exceeded your current quota, please check your plan and billing details. For more information on this error, head to: https://ai.google.dev/gemini-api/docs/rate-limits. To monitor your current usage, head to: https://ai.dev/usage?tab=rate-limit. 
+* Quota exceeded for metric: generativelanguage.googleapis.com/generate_requests_per_model_per_day, limit: 0 [links {
+  description: ""Learn more about Gemini API quotas""
+  url: ""https://ai.google.dev/gemini-api/docs/rate-limits""
+}
+, violations {
+  quota_metric: ""generativelanguage.googleapis.com/generate_requests_per_model_per_day""
+  quota_id: ""GenerateRequestsPerDayPerProjectPerModel""
+}
+]",UP,3101.89,CORRECT,0.0284%
+2025-12-14 19:13:14,BNBUSDT,892.32,BUY,"Error: 429 You exceeded your current quota, please check your plan and billing details. For more information on this error, head to: https://ai.google.dev/gemini-api/docs/rate-limits. To monitor your current usage, head to: https://ai.dev/usage?tab=rate-limit. 
+* Quota exceeded for metric: generativelanguage.googleapis.com/generate_requests_per_model_per_day, limit: 0 [links {
+  description: ""Learn more about Gemini API quotas""
+  url: ""https://ai.google.dev/gemini-api/docs/rate-limits""
+}
+, violations {
+  quota_metric: ""generativelanguage.googleapis.com/generate_requests_per_model_per_day""
+  quota_id: ""GenerateRequestsPerDayPerProjectPerModel""
+}
+]",UP,892.34,CORRECT,0.0022%
+2025-12-14 19:13:14,SOLUSDT,131.59,BUY,"Error: 429 You exceeded your current quota, please check your plan and billing details. For more information on this error, head to: https://ai.google.dev/gemini-api/docs/rate-limits. To monitor your current usage, head to: https://ai.dev/usage?tab=rate-limit. 
+* Quota exceeded for metric: generativelanguage.googleapis.com/generate_requests_per_model_per_day, limit: 0 [links {
+  description: ""Learn more about Gemini API quotas""
+  url: ""https://ai.google.dev/gemini-api/docs/rate-limits""
+}
+, violations {
+  quota_metric: ""generativelanguage.googleapis.com/generate_requests_per_model_per_day""
+  quota_id: ""GenerateRequestsPerDayPerProjectPerModel""
+}
+]",UP,131.64,CORRECT,0.0380%
+2025-12-14 19:13:14,PEPEUSDT,4.29e-06,BUY,"Error: 429 You exceeded your current quota, please check your plan and billing details. For more information on this error, head to: https://ai.google.dev/gemini-api/docs/rate-limits. To monitor your current usage, head to: https://ai.dev/usage?tab=rate-limit. 
+* Quota exceeded for metric: generativelanguage.googleapis.com/generate_requests_per_model_per_day, limit: 0 [links {
+  description: ""Learn more about Gemini API quotas""
+  url: ""https://ai.google.dev/gemini-api/docs/rate-limits""
+}
+, violations {
+  quota_metric: ""generativelanguage.googleapis.com/generate_requests_per_model_per_day""
+  quota_id: ""GenerateRequestsPerDayPerProjectPerModel""
+}
+]",UP,4.3e-06,CORRECT,0.2331%
+2025-12-14 19:14:15,BTCUSDT,89686.91,BUY,"Error: 429 You exceeded your current quota, please check your plan and billing details. For more information on this error, head to: https://ai.google.dev/gemini-api/docs/rate-limits. To monitor your current usage, head to: https://ai.dev/usage?tab=rate-limit. 
+* Quota exceeded for metric: generativelanguage.googleapis.com/generate_requests_per_model_per_day, limit: 0 [links {
+  description: ""Learn more about Gemini API quotas""
+  url: ""https://ai.google.dev/gemini-api/docs/rate-limits""
+}
+, violations {
+  quota_metric: ""generativelanguage.googleapis.com/generate_requests_per_model_per_day""
+  quota_id: ""GenerateRequestsPerDayPerProjectPerModel""
+}
+]",UP,89774.16,CORRECT,0.0973%
+2025-12-14 19:14:15,ETHUSDT,3101.89,BUY,"Error: 429 You exceeded your current quota, please check your plan and billing details. For more information on this error, head to: https://ai.google.dev/gemini-api/docs/rate-limits. To monitor your current usage, head to: https://ai.dev/usage?tab=rate-limit. 
+* Quota exceeded for metric: generativelanguage.googleapis.com/generate_requests_per_model_per_day, limit: 0 [links {
+  description: ""Learn more about Gemini API quotas""
+  url: ""https://ai.google.dev/gemini-api/docs/rate-limits""
+}
+, violations {
+  quota_metric: ""generativelanguage.googleapis.com/generate_requests_per_model_per_day""
+  quota_id: ""GenerateRequestsPerDayPerProjectPerModel""
+}
+]",UP,3103.05,CORRECT,0.0374%
+2025-12-14 19:14:15,BNBUSDT,892.34,BUY,"Error: 429 You exceeded your current quota, please check your plan and billing details. For more information on this error, head to: https://ai.google.dev/gemini-api/docs/rate-limits. To monitor your current usage, head to: https://ai.dev/usage?tab=rate-limit. 
+* Quota exceeded for metric: generativelanguage.googleapis.com/generate_requests_per_model_per_day, limit: 0 [links {
+  description: ""Learn more about Gemini API quotas""
+  url: ""https://ai.google.dev/gemini-api/docs/rate-limits""
+}
+, violations {
+  quota_metric: ""generativelanguage.googleapis.com/generate_requests_per_model_per_day""
+  quota_id: ""GenerateRequestsPerDayPerProjectPerModel""
+}
+]",UP,892.8,CORRECT,0.0515%
+2025-12-14 19:14:15,SOLUSDT,131.64,BUY,"Error: 429 You exceeded your current quota, please check your plan and billing details. For more information on this error, head to: https://ai.google.dev/gemini-api/docs/rate-limits. To monitor your current usage, head to: https://ai.dev/usage?tab=rate-limit. 
+* Quota exceeded for metric: generativelanguage.googleapis.com/generate_requests_per_model_per_day, limit: 0 [links {
+  description: ""Learn more about Gemini API quotas""
+  url: ""https://ai.google.dev/gemini-api/docs/rate-limits""
+}
+, violations {
+  quota_metric: ""generativelanguage.googleapis.com/generate_requests_per_model_per_day""
+  quota_id: ""GenerateRequestsPerDayPerProjectPerModel""
+}
+]",UP,131.76,CORRECT,0.0912%
+2025-12-14 19:14:15,PEPEUSDT,4.3e-06,BUY,"Error: 429 You exceeded your current quota, please check your plan and billing details. For more information on this error, head to: https://ai.google.dev/gemini-api/docs/rate-limits. To monitor your current usage, head to: https://ai.dev/usage?tab=rate-limit. 
+* Quota exceeded for metric: generativelanguage.googleapis.com/generate_requests_per_model_per_day, limit: 0 [links {
+  description: ""Learn more about Gemini API quotas""
+  url: ""https://ai.google.dev/gemini-api/docs/rate-limits""
+}
+, violations {
+  quota_metric: ""generativelanguage.googleapis.com/generate_requests_per_model_per_day""
+  quota_id: ""GenerateRequestsPerDayPerProjectPerModel""
+}
+]",UP,4.31e-06,CORRECT,0.2326%
+2025-12-14 19:15:16,BTCUSDT,89774.16,BUY,"Error: 429 You exceeded your current quota, please check your plan and billing details. For more information on this error, head to: https://ai.google.dev/gemini-api/docs/rate-limits. To monitor your current usage, head to: https://ai.dev/usage?tab=rate-limit. 
+* Quota exceeded for metric: generativelanguage.googleapis.com/generate_requests_per_model_per_day, limit: 0 [links {
+  description: ""Learn more about Gemini API quotas""
+  url: ""https://ai.google.dev/gemini-api/docs/rate-limits""
+}
+, violations {
+  quota_metric: ""generativelanguage.googleapis.com/generate_requests_per_model_per_day""
+  quota_id: ""GenerateRequestsPerDayPerProjectPerModel""
+}
+]",UP,89728.29,WRONG,-0.0511%
+2025-12-14 19:15:16,ETHUSDT,3103.05,BUY,"Error: 429 You exceeded your current quota, please check your plan and billing details. For more information on this error, head to: https://ai.google.dev/gemini-api/docs/rate-limits. To monitor your current usage, head to: https://ai.dev/usage?tab=rate-limit. 
+* Quota exceeded for metric: generativelanguage.googleapis.com/generate_requests_per_model_per_day, limit: 0 [links {
+  description: ""Learn more about Gemini API quotas""
+  url: ""https://ai.google.dev/gemini-api/docs/rate-limits""
+}
+, violations {
+  quota_metric: ""generativelanguage.googleapis.com/generate_requests_per_model_per_day""
+  quota_id: ""GenerateRequestsPerDayPerProjectPerModel""
+}
+]",UP,3100.57,WRONG,-0.0799%
+2025-12-14 19:15:16,BNBUSDT,892.79,BUY,"Error: 429 You exceeded your current quota, please check your plan and billing details. For more information on this error, head to: https://ai.google.dev/gemini-api/docs/rate-limits. To monitor your current usage, head to: https://ai.dev/usage?tab=rate-limit. 
+* Quota exceeded for metric: generativelanguage.googleapis.com/generate_requests_per_model_per_day, limit: 0 [links {
+  description: ""Learn more about Gemini API quotas""
+  url: ""https://ai.google.dev/gemini-api/docs/rate-limits""
+}
+, violations {
+  quota_metric: ""generativelanguage.googleapis.com/generate_requests_per_model_per_day""
+  quota_id: ""GenerateRequestsPerDayPerProjectPerModel""
+}
+]",UP,892.36,WRONG,-0.0482%
+2025-12-14 19:15:16,SOLUSDT,131.77,BUY,"Error: 429 You exceeded your current quota, please check your plan and billing details. For more information on this error, head to: https://ai.google.dev/gemini-api/docs/rate-limits. To monitor your current usage, head to: https://ai.dev/usage?tab=rate-limit. 
+* Quota exceeded for metric: generativelanguage.googleapis.com/generate_requests_per_model_per_day, limit: 0 [links {
+  description: ""Learn more about Gemini API quotas""
+  url: ""https://ai.google.dev/gemini-api/docs/rate-limits""
+}
+, violations {
+  quota_metric: ""generativelanguage.googleapis.com/generate_requests_per_model_per_day""
+  quota_id: ""GenerateRequestsPerDayPerProjectPerModel""
+}
+]",UP,131.74,WRONG,-0.0228%
+2025-12-14 19:15:16,PEPEUSDT,4.31e-06,BUY,"Error: 429 You exceeded your current quota, please check your plan and billing details. For more information on this error, head to: https://ai.google.dev/gemini-api/docs/rate-limits. To monitor your current usage, head to: https://ai.dev/usage?tab=rate-limit. 
+* Quota exceeded for metric: generativelanguage.googleapis.com/generate_requests_per_model_per_day, limit: 0 [links {
+  description: ""Learn more about Gemini API quotas""
+  url: ""https://ai.google.dev/gemini-api/docs/rate-limits""
+}
+, violations {
+  quota_metric: ""generativelanguage.googleapis.com/generate_requests_per_model_per_day""
+  quota_id: ""GenerateRequestsPerDayPerProjectPerModel""
+}
+]",UP,4.31e-06,WRONG,0.0000%
+2025-12-14 19:16:18,BTCUSDT,89728.29,BUY,"Error: 429 You exceeded your current quota, please check your plan and billing details. For more information on this error, head to: https://ai.google.dev/gemini-api/docs/rate-limits. To monitor your current usage, head to: https://ai.dev/usage?tab=rate-limit. 
+* Quota exceeded for metric: generativelanguage.googleapis.com/generate_requests_per_model_per_day, limit: 0 [links {
+  description: ""Learn more about Gemini API quotas""
+  url: ""https://ai.google.dev/gemini-api/docs/rate-limits""
+}
+, violations {
+  quota_metric: ""generativelanguage.googleapis.com/generate_requests_per_model_per_day""
+  quota_id: ""GenerateRequestsPerDayPerProjectPerModel""
+}
+]",UP,89696.21,WRONG,-0.0358%
+2025-12-14 19:16:18,ETHUSDT,3100.57,BUY,"Error: 429 You exceeded your current quota, please check your plan and billing details. For more information on this error, head to: https://ai.google.dev/gemini-api/docs/rate-limits. To monitor your current usage, head to: https://ai.dev/usage?tab=rate-limit. 
+* Quota exceeded for metric: generativelanguage.googleapis.com/generate_requests_per_model_per_day, limit: 0 [links {
+  description: ""Learn more about Gemini API quotas""
+  url: ""https://ai.google.dev/gemini-api/docs/rate-limits""
+}
+, violations {
+  quota_metric: ""generativelanguage.googleapis.com/generate_requests_per_model_per_day""
+  quota_id: ""GenerateRequestsPerDayPerProjectPerModel""
+}
+]",UP,3098.17,WRONG,-0.0774%
+2025-12-14 19:16:18,BNBUSDT,892.3,BUY,"Error: 429 You exceeded your current quota, please check your plan and billing details. For more information on this error, head to: https://ai.google.dev/gemini-api/docs/rate-limits. To monitor your current usage, head to: https://ai.dev/usage?tab=rate-limit. 
+* Quota exceeded for metric: generativelanguage.googleapis.com/generate_requests_per_model_per_day, limit: 0 [links {
+  description: ""Learn more about Gemini API quotas""
+  url: ""https://ai.google.dev/gemini-api/docs/rate-limits""
+}
+, violations {
+  quota_metric: ""generativelanguage.googleapis.com/generate_requests_per_model_per_day""
+  quota_id: ""GenerateRequestsPerDayPerProjectPerModel""
+}
+]",UP,891.9,WRONG,-0.0448%
+2025-12-14 19:16:18,SOLUSDT,131.74,BUY,"Error: 429 You exceeded your current quota, please check your plan and billing details. For more information on this error, head to: https://ai.google.dev/gemini-api/docs/rate-limits. To monitor your current usage, head to: https://ai.dev/usage?tab=rate-limit. 
+* Quota exceeded for metric: generativelanguage.googleapis.com/generate_requests_per_model_per_day, limit: 0 [links {
+  description: ""Learn more about Gemini API quotas""
+  url: ""https://ai.google.dev/gemini-api/docs/rate-limits""
+}
+, violations {
+  quota_metric: ""generativelanguage.googleapis.com/generate_requests_per_model_per_day""
+  quota_id: ""GenerateRequestsPerDayPerProjectPerModel""
+}
+]",UP,131.62,WRONG,-0.0911%
+2025-12-14 19:16:18,PEPEUSDT,4.31e-06,BUY,"Error: 429 You exceeded your current quota, please check your plan and billing details. For more information on this error, head to: https://ai.google.dev/gemini-api/docs/rate-limits. To monitor your current usage, head to: https://ai.dev/usage?tab=rate-limit. 
+* Quota exceeded for metric: generativelanguage.googleapis.com/generate_requests_per_model_per_day, limit: 0 [links {
+  description: ""Learn more about Gemini API quotas""
+  url: ""https://ai.google.dev/gemini-api/docs/rate-limits""
+}
+, violations {
+  quota_metric: ""generativelanguage.googleapis.com/generate_requests_per_model_per_day""
+  quota_id: ""GenerateRequestsPerDayPerProjectPerModel""
+}
+]",UP,4.3e-06,WRONG,-0.2320%
+2025-12-14 19:17:19,BTCUSDT,89696.21,BUY,"Error: 429 You exceeded your current quota, please check your plan and billing details. For more information on this error, head to: https://ai.google.dev/gemini-api/docs/rate-limits. To monitor your current usage, head to: https://ai.dev/usage?tab=rate-limit. 
+* Quota exceeded for metric: generativelanguage.googleapis.com/generate_requests_per_model_per_day, limit: 0 [links {
+  description: ""Learn more about Gemini API quotas""
+  url: ""https://ai.google.dev/gemini-api/docs/rate-limits""
+}
+, violations {
+  quota_metric: ""generativelanguage.googleapis.com/generate_requests_per_model_per_day""
+  quota_id: ""GenerateRequestsPerDayPerProjectPerModel""
+}
+]",UP,89690.79,WRONG,-0.0060%
+2025-12-14 19:17:19,ETHUSDT,3098.18,BUY,"Error: 429 You exceeded your current quota, please check your plan and billing details. For more information on this error, head to: https://ai.google.dev/gemini-api/docs/rate-limits. To monitor your current usage, head to: https://ai.dev/usage?tab=rate-limit. 
+* Quota exceeded for metric: generativelanguage.googleapis.com/generate_requests_per_model_per_day, limit: 0 [links {
+  description: ""Learn more about Gemini API quotas""
+  url: ""https://ai.google.dev/gemini-api/docs/rate-limits""
+}
+, violations {
+  quota_metric: ""generativelanguage.googleapis.com/generate_requests_per_model_per_day""
+  quota_id: ""GenerateRequestsPerDayPerProjectPerModel""
+}
+]",UP,3097.01,WRONG,-0.0378%
+2025-12-14 19:17:19,BNBUSDT,891.89,BUY,"Error: 429 You exceeded your current quota, please check your plan and billing details. For more information on this error, head to: https://ai.google.dev/gemini-api/docs/rate-limits. To monitor your current usage, head to: https://ai.dev/usage?tab=rate-limit. 
+* Quota exceeded for metric: generativelanguage.googleapis.com/generate_requests_per_model_per_day, limit: 0 [links {
+  description: ""Learn more about Gemini API quotas""
+  url: ""https://ai.google.dev/gemini-api/docs/rate-limits""
+}
+, violations {
+  quota_metric: ""generativelanguage.googleapis.com/generate_requests_per_model_per_day""
+  quota_id: ""GenerateRequestsPerDayPerProjectPerModel""
+}
+]",UP,891.64,WRONG,-0.0280%
+2025-12-14 19:17:19,SOLUSDT,131.62,BUY,"Error: 429 You exceeded your current quota, please check your plan and billing details. For more information on this error, head to: https://ai.google.dev/gemini-api/docs/rate-limits. To monitor your current usage, head to: https://ai.dev/usage?tab=rate-limit. 
+* Quota exceeded for metric: generativelanguage.googleapis.com/generate_requests_per_model_per_day, limit: 0 [links {
+  description: ""Learn more about Gemini API quotas""
+  url: ""https://ai.google.dev/gemini-api/docs/rate-limits""
+}
+, violations {
+  quota_metric: ""generativelanguage.googleapis.com/generate_requests_per_model_per_day""
+  quota_id: ""GenerateRequestsPerDayPerProjectPerModel""
+}
+]",UP,131.53,WRONG,-0.0684%
+2025-12-14 19:17:19,PEPEUSDT,4.3e-06,BUY,"Error: 429 You exceeded your current quota, please check your plan and billing details. For more information on this error, head to: https://ai.google.dev/gemini-api/docs/rate-limits. To monitor your current usage, head to: https://ai.dev/usage?tab=rate-limit. 
+* Quota exceeded for metric: generativelanguage.googleapis.com/generate_requests_per_model_per_day, limit: 0 [links {
+  description: ""Learn more about Gemini API quotas""
+  url: ""https://ai.google.dev/gemini-api/docs/rate-limits""
+}
+, violations {
+  quota_metric: ""generativelanguage.googleapis.com/generate_requests_per_model_per_day""
+  quota_id: ""GenerateRequestsPerDayPerProjectPerModel""
+}
+]",UP,4.3e-06,WRONG,0.0000%
+2025-12-14 19:18:49,BTCUSDT,89690.79,BUY,"Error: 429 You exceeded your current quota, please check your plan and billing details. For more information on this error, head to: https://ai.google.dev/gemini-api/docs/rate-limits. To monitor your current usage, head to: https://ai.dev/usage?tab=rate-limit. 
+* Quota exceeded for metric: generativelanguage.googleapis.com/generate_requests_per_model_per_day, limit: 0 [links {
+  description: ""Learn more about Gemini API quotas""
+  url: ""https://ai.google.dev/gemini-api/docs/rate-limits""
+}
+, violations {
+  quota_metric: ""generativelanguage.googleapis.com/generate_requests_per_model_per_day""
+  quota_id: ""GenerateRequestsPerDayPerProjectPerModel""
+}
+]",UP,89413.75,WRONG,-0.3089%
+2025-12-14 19:18:49,ETHUSDT,3097.01,BUY,"Error: 429 You exceeded your current quota, please check your plan and billing details. For more information on this error, head to: https://ai.google.dev/gemini-api/docs/rate-limits. To monitor your current usage, head to: https://ai.dev/usage?tab=rate-limit. 
+* Quota exceeded for metric: generativelanguage.googleapis.com/generate_requests_per_model_per_day, limit: 0 [links {
+  description: ""Learn more about Gemini API quotas""
+  url: ""https://ai.google.dev/gemini-api/docs/rate-limits""
+}
+, violations {
+  quota_metric: ""generativelanguage.googleapis.com/generate_requests_per_model_per_day""
+  quota_id: ""GenerateRequestsPerDayPerProjectPerModel""
+}
+]",UP,3097.01,WRONG,0.0000%
+2025-12-14 19:18:49,BNBUSDT,891.64,BUY,"Error: 429 You exceeded your current quota, please check your plan and billing details. For more information on this error, head to: https://ai.google.dev/gemini-api/docs/rate-limits. To monitor your current usage, head to: https://ai.dev/usage?tab=rate-limit. 
+* Quota exceeded for metric: generativelanguage.googleapis.com/generate_requests_per_model_per_day, limit: 0 [links {
+  description: ""Learn more about Gemini API quotas""
+  url: ""https://ai.google.dev/gemini-api/docs/rate-limits""
+}
+, violations {
+  quota_metric: ""generativelanguage.googleapis.com/generate_requests_per_model_per_day""
+  quota_id: ""GenerateRequestsPerDayPerProjectPerModel""
+}
+]",UP,887.86,WRONG,-0.4239%
+2025-12-14 19:18:49,SOLUSDT,131.54,BUY,"Error: 429 You exceeded your current quota, please check your plan and billing details. For more information on this error, head to: https://ai.google.dev/gemini-api/docs/rate-limits. To monitor your current usage, head to: https://ai.dev/usage?tab=rate-limit. 
+* Quota exceeded for metric: generativelanguage.googleapis.com/generate_requests_per_model_per_day, limit: 0 [links {
+  description: ""Learn more about Gemini API quotas""
+  url: ""https://ai.google.dev/gemini-api/docs/rate-limits""
+}
+, violations {
+  quota_metric: ""generativelanguage.googleapis.com/generate_requests_per_model_per_day""
+  quota_id: ""GenerateRequestsPerDayPerProjectPerModel""
+}
+]",UP,131.52,WRONG,-0.0152%
+2025-12-14 19:18:49,PEPEUSDT,4.3e-06,BUY,"Error: 429 You exceeded your current quota, please check your plan and billing details. For more information on this error, head to: https://ai.google.dev/gemini-api/docs/rate-limits. To monitor your current usage, head to: https://ai.dev/usage?tab=rate-limit. 
+* Quota exceeded for metric: generativelanguage.googleapis.com/generate_requests_per_model_per_day, limit: 0 [links {
+  description: ""Learn more about Gemini API quotas""
+  url: ""https://ai.google.dev/gemini-api/docs/rate-limits""
+}
+, violations {
+  quota_metric: ""generativelanguage.googleapis.com/generate_requests_per_model_per_day""
+  quota_id: ""GenerateRequestsPerDayPerProjectPerModel""
+}
+]",UP,4.29e-06,WRONG,-0.2326%
+2025-12-14 19:53:01,BTCUSDT,89278.64,BUY,"Error: 429 You exceeded your current quota, please check your plan and billing details. For more information on this error, head to: https://ai.google.dev/gemini-api/docs/rate-limits. To monitor your current usage, head to: https://ai.dev/usage?tab=rate-limit. 
+* Quota exceeded for metric: generativelanguage.googleapis.com/generate_requests_per_model_per_day, limit: 0 [links {
+  description: ""Learn more about Gemini API quotas""
+  url: ""https://ai.google.dev/gemini-api/docs/rate-limits""
+}
+, violations {
+  quota_metric: ""generativelanguage.googleapis.com/generate_requests_per_model_per_day""
+  quota_id: ""GenerateRequestsPerDayPerProjectPerModel""
+}
+]",UP,89316.32,CORRECT,0.0422%
+2025-12-14 19:53:01,ETHUSDT,3080.59,BUY,"Error: 429 You exceeded your current quota, please check your plan and billing details. For more information on this error, head to: https://ai.google.dev/gemini-api/docs/rate-limits. To monitor your current usage, head to: https://ai.dev/usage?tab=rate-limit. 
+* Quota exceeded for metric: generativelanguage.googleapis.com/generate_requests_per_model_per_day, limit: 0 [links {
+  description: ""Learn more about Gemini API quotas""
+  url: ""https://ai.google.dev/gemini-api/docs/rate-limits""
+}
+, violations {
+  quota_metric: ""generativelanguage.googleapis.com/generate_requests_per_model_per_day""
+  quota_id: ""GenerateRequestsPerDayPerProjectPerModel""
+}
+]",UP,3082.48,CORRECT,0.0614%
+2025-12-14 19:53:01,BNBUSDT,888.0,BUY,"Error: 429 You exceeded your current quota, please check your plan and billing details. For more information on this error, head to: https://ai.google.dev/gemini-api/docs/rate-limits. To monitor your current usage, head to: https://ai.dev/usage?tab=rate-limit. 
+* Quota exceeded for metric: generativelanguage.googleapis.com/generate_requests_per_model_per_day, limit: 0 [links {
+  description: ""Learn more about Gemini API quotas""
+  url: ""https://ai.google.dev/gemini-api/docs/rate-limits""
+}
+, violations {
+  quota_metric: ""generativelanguage.googleapis.com/generate_requests_per_model_per_day""
+  quota_id: ""GenerateRequestsPerDayPerProjectPerModel""
+}
+]",UP,888.5,CORRECT,0.0563%
+2025-12-14 19:53:01,SOLUSDT,131.52,BUY,"Error: 429 You exceeded your current quota, please check your plan and billing details. For more information on this error, head to: https://ai.google.dev/gemini-api/docs/rate-limits. To monitor your current usage, head to: https://ai.dev/usage?tab=rate-limit. 
+* Quota exceeded for metric: generativelanguage.googleapis.com/generate_requests_per_model_per_day, limit: 0 [links {
+  description: ""Learn more about Gemini API quotas""
+  url: ""https://ai.google.dev/gemini-api/docs/rate-limits""
+}
+, violations {
+  quota_metric: ""generativelanguage.googleapis.com/generate_requests_per_model_per_day""
+  quota_id: ""GenerateRequestsPerDayPerProjectPerModel""
+}
+]",UP,131.26,WRONG,-0.1977%
+2025-12-14 19:53:01,PEPEUSDT,4.29e-06,BUY,"Error: 429 You exceeded your current quota, please check your plan and billing details. For more information on this error, head to: https://ai.google.dev/gemini-api/docs/rate-limits. To monitor your current usage, head to: https://ai.dev/usage?tab=rate-limit. 
+* Quota exceeded for metric: generativelanguage.googleapis.com/generate_requests_per_model_per_day, limit: 0 [links {
+  description: ""Learn more about Gemini API quotas""
+  url: ""https://ai.google.dev/gemini-api/docs/rate-limits""
+}
+, violations {
+  quota_metric: ""generativelanguage.googleapis.com/generate_requests_per_model_per_day""
+  quota_id: ""GenerateRequestsPerDayPerProjectPerModel""
+}
+]",UP,4.28e-06,WRONG,-0.2331%
+2025-12-14 20:10:46,BTCUSDT,89316.32,BUY,"Error: 429 You exceeded your current quota, please check your plan and billing details. For more information on this error, head to: https://ai.google.dev/gemini-api/docs/rate-limits. To monitor your current usage, head to: https://ai.dev/usage?tab=rate-limit. 
+* Quota exceeded for metric: generativelanguage.googleapis.com/generate_requests_per_model_per_day, limit: 0 [links {
+  description: ""Learn more about Gemini API quotas""
+  url: ""https://ai.google.dev/gemini-api/docs/rate-limits""
+}
+, violations {
+  quota_metric: ""generativelanguage.googleapis.com/generate_requests_per_model_per_day""
+  quota_id: ""GenerateRequestsPerDayPerProjectPerModel""
+}
+]",UP,89528.32,CORRECT,0.2374%
+2025-12-14 20:10:46,ETHUSDT,3081.98,BUY,"Error: 429 You exceeded your current quota, please check your plan and billing details. For more information on this error, head to: https://ai.google.dev/gemini-api/docs/rate-limits. To monitor your current usage, head to: https://ai.dev/usage?tab=rate-limit. 
+* Quota exceeded for metric: generativelanguage.googleapis.com/generate_requests_per_model_per_day, limit: 0 [links {
+  description: ""Learn more about Gemini API quotas""
+  url: ""https://ai.google.dev/gemini-api/docs/rate-limits""
+}
+, violations {
+  quota_metric: ""generativelanguage.googleapis.com/generate_requests_per_model_per_day""
+  quota_id: ""GenerateRequestsPerDayPerProjectPerModel""
+}
+]",UP,3099.3,CORRECT,0.5620%
+2025-12-14 20:10:46,BNBUSDT,888.51,BUY,"Error: 429 You exceeded your current quota, please check your plan and billing details. For more information on this error, head to: https://ai.google.dev/gemini-api/docs/rate-limits. To monitor your current usage, head to: https://ai.dev/usage?tab=rate-limit. 
+* Quota exceeded for metric: generativelanguage.googleapis.com/generate_requests_per_model_per_day, limit: 0 [links {
+  description: ""Learn more about Gemini API quotas""
+  url: ""https://ai.google.dev/gemini-api/docs/rate-limits""
+}
+, violations {
+  quota_metric: ""generativelanguage.googleapis.com/generate_requests_per_model_per_day""
+  quota_id: ""GenerateRequestsPerDayPerProjectPerModel""
+}
+]",UP,891.52,CORRECT,0.3388%
+2025-12-14 20:10:46,SOLUSDT,131.27,BUY,"Error: 429 You exceeded your current quota, please check your plan and billing details. For more information on this error, head to: https://ai.google.dev/gemini-api/docs/rate-limits. To monitor your current usage, head to: https://ai.dev/usage?tab=rate-limit. 
+* Quota exceeded for metric: generativelanguage.googleapis.com/generate_requests_per_model_per_day, limit: 0 [links {
+  description: ""Learn more about Gemini API quotas""
+  url: ""https://ai.google.dev/gemini-api/docs/rate-limits""
+}
+, violations {
+  quota_metric: ""generativelanguage.googleapis.com/generate_requests_per_model_per_day""
+  quota_id: ""GenerateRequestsPerDayPerProjectPerModel""
+}
+]",UP,131.78,CORRECT,0.3885%
+2025-12-14 20:10:46,PEPEUSDT,4.28e-06,BUY,"Error: 429 You exceeded your current quota, please check your plan and billing details. For more information on this error, head to: https://ai.google.dev/gemini-api/docs/rate-limits. To monitor your current usage, head to: https://ai.dev/usage?tab=rate-limit. 
+* Quota exceeded for metric: generativelanguage.googleapis.com/generate_requests_per_model_per_day, limit: 0 [links {
+  description: ""Learn more about Gemini API quotas""
+  url: ""https://ai.google.dev/gemini-api/docs/rate-limits""
+}
+, violations {
+  quota_metric: ""generativelanguage.googleapis.com/generate_requests_per_model_per_day""
+  quota_id: ""GenerateRequestsPerDayPerProjectPerModel""
+}
+]",UP,4.3e-06,CORRECT,0.4673%
+2025-12-14 20:19:52,BTCUSDT,89528.33,BUY,"Error: 429 You exceeded your current quota, please check your plan and billing details. For more information on this error, head to: https://ai.google.dev/gemini-api/docs/rate-limits. To monitor your current usage, head to: https://ai.dev/usage?tab=rate-limit. 
+* Quota exceeded for metric: generativelanguage.googleapis.com/generate_requests_per_model_per_day, limit: 0 [links {
+  description: ""Learn more about Gemini API quotas""
+  url: ""https://ai.google.dev/gemini-api/docs/rate-limits""
+}
+, violations {
+  quota_metric: ""generativelanguage.googleapis.com/generate_requests_per_model_per_day""
+  quota_id: ""GenerateRequestsPerDayPerProjectPerModel""
+}
+]",UP,89442.7,WRONG,-0.0956%
+2025-12-14 20:19:52,ETHUSDT,3099.3,BUY,"Error: 429 You exceeded your current quota, please check your plan and billing details. For more information on this error, head to: https://ai.google.dev/gemini-api/docs/rate-limits. To monitor your current usage, head to: https://ai.dev/usage?tab=rate-limit. 
+* Quota exceeded for metric: generativelanguage.googleapis.com/generate_requests_per_model_per_day, limit: 0 [links {
+  description: ""Learn more about Gemini API quotas""
+  url: ""https://ai.google.dev/gemini-api/docs/rate-limits""
+}
+, violations {
+  quota_metric: ""generativelanguage.googleapis.com/generate_requests_per_model_per_day""
+  quota_id: ""GenerateRequestsPerDayPerProjectPerModel""
+}
+]",UP,3096.38,WRONG,-0.0942%
+2025-12-14 20:19:52,BNBUSDT,891.6,BUY,"Error: 429 You exceeded your current quota, please check your plan and billing details. For more information on this error, head to: https://ai.google.dev/gemini-api/docs/rate-limits. To monitor your current usage, head to: https://ai.dev/usage?tab=rate-limit. 
+* Quota exceeded for metric: generativelanguage.googleapis.com/generate_requests_per_model_per_day, limit: 0 [links {
+  description: ""Learn more about Gemini API quotas""
+  url: ""https://ai.google.dev/gemini-api/docs/rate-limits""
+}
+, violations {
+  quota_metric: ""generativelanguage.googleapis.com/generate_requests_per_model_per_day""
+  quota_id: ""GenerateRequestsPerDayPerProjectPerModel""
+}
+]",UP,891.2,WRONG,-0.0449%
+2025-12-14 20:19:52,SOLUSDT,131.79,BUY,"Error: 429 You exceeded your current quota, please check your plan and billing details. For more information on this error, head to: https://ai.google.dev/gemini-api/docs/rate-limits. To monitor your current usage, head to: https://ai.dev/usage?tab=rate-limit. 
+* Quota exceeded for metric: generativelanguage.googleapis.com/generate_requests_per_model_per_day, limit: 0 [links {
+  description: ""Learn more about Gemini API quotas""
+  url: ""https://ai.google.dev/gemini-api/docs/rate-limits""
+}
+, violations {
+  quota_metric: ""generativelanguage.googleapis.com/generate_requests_per_model_per_day""
+  quota_id: ""GenerateRequestsPerDayPerProjectPerModel""
+}
+]",UP,131.66,WRONG,-0.0986%
+2025-12-14 20:19:52,PEPEUSDT,4.3e-06,BUY,"Error: 429 You exceeded your current quota, please check your plan and billing details. For more information on this error, head to: https://ai.google.dev/gemini-api/docs/rate-limits. To monitor your current usage, head to: https://ai.dev/usage?tab=rate-limit. 
+* Quota exceeded for metric: generativelanguage.googleapis.com/generate_requests_per_model_per_day, limit: 0 [links {
+  description: ""Learn more about Gemini API quotas""
+  url: ""https://ai.google.dev/gemini-api/docs/rate-limits""
+}
+, violations {
+  quota_metric: ""generativelanguage.googleapis.com/generate_requests_per_model_per_day""
+  quota_id: ""GenerateRequestsPerDayPerProjectPerModel""
+}
+]",UP,4.3e-06,WRONG,0.0000%
+2025-12-14 20:20:55,BTCUSDT,89442.7,BUY,"Error: 429 You exceeded your current quota, please check your plan and billing details. For more information on this error, head to: https://ai.google.dev/gemini-api/docs/rate-limits. To monitor your current usage, head to: https://ai.dev/usage?tab=rate-limit. 
+* Quota exceeded for metric: generativelanguage.googleapis.com/generate_requests_per_model_per_day, limit: 0 [links {
+  description: ""Learn more about Gemini API quotas""
+  url: ""https://ai.google.dev/gemini-api/docs/rate-limits""
+}
+, violations {
+  quota_metric: ""generativelanguage.googleapis.com/generate_requests_per_model_per_day""
+  quota_id: ""GenerateRequestsPerDayPerProjectPerModel""
+}
+]",UP,89403.32,WRONG,-0.0440%
+2025-12-14 20:20:55,ETHUSDT,3096.38,BUY,"Error: 429 You exceeded your current quota, please check your plan and billing details. For more information on this error, head to: https://ai.google.dev/gemini-api/docs/rate-limits. To monitor your current usage, head to: https://ai.dev/usage?tab=rate-limit. 
+* Quota exceeded for metric: generativelanguage.googleapis.com/generate_requests_per_model_per_day, limit: 0 [links {
+  description: ""Learn more about Gemini API quotas""
+  url: ""https://ai.google.dev/gemini-api/docs/rate-limits""
+}
+, violations {
+  quota_metric: ""generativelanguage.googleapis.com/generate_requests_per_model_per_day""
+  quota_id: ""GenerateRequestsPerDayPerProjectPerModel""
+}
+]",UP,3096.36,WRONG,-0.0006%
+2025-12-14 20:20:55,BNBUSDT,891.19,BUY,"Error: 429 You exceeded your current quota, please check your plan and billing details. For more information on this error, head to: https://ai.google.dev/gemini-api/docs/rate-limits. To monitor your current usage, head to: https://ai.dev/usage?tab=rate-limit. 
+* Quota exceeded for metric: generativelanguage.googleapis.com/generate_requests_per_model_per_day, limit: 0 [links {
+  description: ""Learn more about Gemini API quotas""
+  url: ""https://ai.google.dev/gemini-api/docs/rate-limits""
+}
+, violations {
+  quota_metric: ""generativelanguage.googleapis.com/generate_requests_per_model_per_day""
+  quota_id: ""GenerateRequestsPerDayPerProjectPerModel""
+}
+]",UP,891.15,WRONG,-0.0045%
+2025-12-14 20:20:55,SOLUSDT,131.66,BUY,"Error: 429 You exceeded your current quota, please check your plan and billing details. For more information on this error, head to: https://ai.google.dev/gemini-api/docs/rate-limits. To monitor your current usage, head to: https://ai.dev/usage?tab=rate-limit. 
+* Quota exceeded for metric: generativelanguage.googleapis.com/generate_requests_per_model_per_day, limit: 0 [links {
+  description: ""Learn more about Gemini API quotas""
+  url: ""https://ai.google.dev/gemini-api/docs/rate-limits""
+}
+, violations {
+  quota_metric: ""generativelanguage.googleapis.com/generate_requests_per_model_per_day""
+  quota_id: ""GenerateRequestsPerDayPerProjectPerModel""
+}
+]",UP,131.62,WRONG,-0.0304%
+2025-12-14 20:20:55,PEPEUSDT,4.3e-06,BUY,"Error: 429 You exceeded your current quota, please check your plan and billing details. For more information on this error, head to: https://ai.google.dev/gemini-api/docs/rate-limits. To monitor your current usage, head to: https://ai.dev/usage?tab=rate-limit. 
+* Quota exceeded for metric: generativelanguage.googleapis.com/generate_requests_per_model_per_day, limit: 0 [links {
+  description: ""Learn more about Gemini API quotas""
+  url: ""https://ai.google.dev/gemini-api/docs/rate-limits""
+}
+, violations {
+  quota_metric: ""generativelanguage.googleapis.com/generate_requests_per_model_per_day""
+  quota_id: ""GenerateRequestsPerDayPerProjectPerModel""
+}
+]",UP,4.3e-06,WRONG,0.0000%
+2025-12-14 20:21:56,BTCUSDT,89403.31,BUY,"Error: 429 You exceeded your current quota, please check your plan and billing details. For more information on this error, head to: https://ai.google.dev/gemini-api/docs/rate-limits. To monitor your current usage, head to: https://ai.dev/usage?tab=rate-limit. 
+* Quota exceeded for metric: generativelanguage.googleapis.com/generate_requests_per_model_per_day, limit: 0 [links {
+  description: ""Learn more about Gemini API quotas""
+  url: ""https://ai.google.dev/gemini-api/docs/rate-limits""
+}
+, violations {
+  quota_metric: ""generativelanguage.googleapis.com/generate_requests_per_model_per_day""
+  quota_id: ""GenerateRequestsPerDayPerProjectPerModel""
+}
+]",UP,89448.09,CORRECT,0.0501%
+2025-12-14 20:21:56,ETHUSDT,3096.36,BUY,"Error: 429 You exceeded your current quota, please check your plan and billing details. For more information on this error, head to: https://ai.google.dev/gemini-api/docs/rate-limits. To monitor your current usage, head to: https://ai.dev/usage?tab=rate-limit. 
+* Quota exceeded for metric: generativelanguage.googleapis.com/generate_requests_per_model_per_day, limit: 0 [links {
+  description: ""Learn more about Gemini API quotas""
+  url: ""https://ai.google.dev/gemini-api/docs/rate-limits""
+}
+, violations {
+  quota_metric: ""generativelanguage.googleapis.com/generate_requests_per_model_per_day""
+  quota_id: ""GenerateRequestsPerDayPerProjectPerModel""
+}
+]",UP,3100.67,CORRECT,0.1392%
+2025-12-14 20:21:56,BNBUSDT,891.15,BUY,"Error: 429 You exceeded your current quota, please check your plan and billing details. For more information on this error, head to: https://ai.google.dev/gemini-api/docs/rate-limits. To monitor your current usage, head to: https://ai.dev/usage?tab=rate-limit. 
+* Quota exceeded for metric: generativelanguage.googleapis.com/generate_requests_per_model_per_day, limit: 0 [links {
+  description: ""Learn more about Gemini API quotas""
+  url: ""https://ai.google.dev/gemini-api/docs/rate-limits""
+}
+, violations {
+  quota_metric: ""generativelanguage.googleapis.com/generate_requests_per_model_per_day""
+  quota_id: ""GenerateRequestsPerDayPerProjectPerModel""
+}
+]",UP,891.55,CORRECT,0.0449%
+2025-12-14 20:21:56,SOLUSDT,131.62,BUY,"Error: 429 You exceeded your current quota, please check your plan and billing details. For more information on this error, head to: https://ai.google.dev/gemini-api/docs/rate-limits. To monitor your current usage, head to: https://ai.dev/usage?tab=rate-limit. 
+* Quota exceeded for metric: generativelanguage.googleapis.com/generate_requests_per_model_per_day, limit: 0 [links {
+  description: ""Learn more about Gemini API quotas""
+  url: ""https://ai.google.dev/gemini-api/docs/rate-limits""
+}
+, violations {
+  quota_metric: ""generativelanguage.googleapis.com/generate_requests_per_model_per_day""
+  quota_id: ""GenerateRequestsPerDayPerProjectPerModel""
+}
+]",UP,131.69,CORRECT,0.0532%
+2025-12-14 20:21:56,PEPEUSDT,4.3e-06,BUY,"Error: 429 You exceeded your current quota, please check your plan and billing details. For more information on this error, head to: https://ai.google.dev/gemini-api/docs/rate-limits. To monitor your current usage, head to: https://ai.dev/usage?tab=rate-limit. 
+* Quota exceeded for metric: generativelanguage.googleapis.com/generate_requests_per_model_per_day, limit: 0 [links {
+  description: ""Learn more about Gemini API quotas""
+  url: ""https://ai.google.dev/gemini-api/docs/rate-limits""
+}
+, violations {
+  quota_metric: ""generativelanguage.googleapis.com/generate_requests_per_model_per_day""
+  quota_id: ""GenerateRequestsPerDayPerProjectPerModel""
+}
+]",UP,4.3e-06,WRONG,0.0000%
+2025-12-14 20:22:57,BTCUSDT,89448.09,BUY,"Error: 429 You exceeded your current quota, please check your plan and billing details. For more information on this error, head to: https://ai.google.dev/gemini-api/docs/rate-limits. To monitor your current usage, head to: https://ai.dev/usage?tab=rate-limit. 
+* Quota exceeded for metric: generativelanguage.googleapis.com/generate_requests_per_model_per_day, limit: 0 [links {
+  description: ""Learn more about Gemini API quotas""
+  url: ""https://ai.google.dev/gemini-api/docs/rate-limits""
+}
+, violations {
+  quota_metric: ""generativelanguage.googleapis.com/generate_requests_per_model_per_day""
+  quota_id: ""GenerateRequestsPerDayPerProjectPerModel""
+}
+]",UP,89429.48,WRONG,-0.0208%
+2025-12-14 20:22:57,ETHUSDT,3100.66,BUY,"Error: 429 You exceeded your current quota, please check your plan and billing details. For more information on this error, head to: https://ai.google.dev/gemini-api/docs/rate-limits. To monitor your current usage, head to: https://ai.dev/usage?tab=rate-limit. 
+* Quota exceeded for metric: generativelanguage.googleapis.com/generate_requests_per_model_per_day, limit: 0 [links {
+  description: ""Learn more about Gemini API quotas""
+  url: ""https://ai.google.dev/gemini-api/docs/rate-limits""
+}
+, violations {
+  quota_metric: ""generativelanguage.googleapis.com/generate_requests_per_model_per_day""
+  quota_id: ""GenerateRequestsPerDayPerProjectPerModel""
+}
+]",UP,3098.75,WRONG,-0.0616%
+2025-12-14 20:22:57,BNBUSDT,891.62,BUY,"Error: 429 You exceeded your current quota, please check your plan and billing details. For more information on this error, head to: https://ai.google.dev/gemini-api/docs/rate-limits. To monitor your current usage, head to: https://ai.dev/usage?tab=rate-limit. 
+* Quota exceeded for metric: generativelanguage.googleapis.com/generate_requests_per_model_per_day, limit: 0 [links {
+  description: ""Learn more about Gemini API quotas""
+  url: ""https://ai.google.dev/gemini-api/docs/rate-limits""
+}
+, violations {
+  quota_metric: ""generativelanguage.googleapis.com/generate_requests_per_model_per_day""
+  quota_id: ""GenerateRequestsPerDayPerProjectPerModel""
+}
+]",UP,891.34,WRONG,-0.0314%
+2025-12-14 20:22:57,SOLUSDT,131.69,BUY,"Error: 429 You exceeded your current quota, please check your plan and billing details. For more information on this error, head to: https://ai.google.dev/gemini-api/docs/rate-limits. To monitor your current usage, head to: https://ai.dev/usage?tab=rate-limit. 
+* Quota exceeded for metric: generativelanguage.googleapis.com/generate_requests_per_model_per_day, limit: 0 [links {
+  description: ""Learn more about Gemini API quotas""
+  url: ""https://ai.google.dev/gemini-api/docs/rate-limits""
+}
+, violations {
+  quota_metric: ""generativelanguage.googleapis.com/generate_requests_per_model_per_day""
+  quota_id: ""GenerateRequestsPerDayPerProjectPerModel""
+}
+]",UP,131.66,WRONG,-0.0228%
+2025-12-14 20:22:57,PEPEUSDT,4.3e-06,BUY,"Error: 429 You exceeded your current quota, please check your plan and billing details. For more information on this error, head to: https://ai.google.dev/gemini-api/docs/rate-limits. To monitor your current usage, head to: https://ai.dev/usage?tab=rate-limit. 
+* Quota exceeded for metric: generativelanguage.googleapis.com/generate_requests_per_model_per_day, limit: 0 [links {
+  description: ""Learn more about Gemini API quotas""
+  url: ""https://ai.google.dev/gemini-api/docs/rate-limits""
+}
+, violations {
+  quota_metric: ""generativelanguage.googleapis.com/generate_requests_per_model_per_day""
+  quota_id: ""GenerateRequestsPerDayPerProjectPerModel""
+}
+]",UP,4.31e-06,CORRECT,0.2326%
+2025-12-14 20:23:59,BTCUSDT,89429.48,BUY,"Error: 429 You exceeded your current quota, please check your plan and billing details. For more information on this error, head to: https://ai.google.dev/gemini-api/docs/rate-limits. To monitor your current usage, head to: https://ai.dev/usage?tab=rate-limit. 
+* Quota exceeded for metric: generativelanguage.googleapis.com/generate_requests_per_model_per_day, limit: 0 [links {
+  description: ""Learn more about Gemini API quotas""
+  url: ""https://ai.google.dev/gemini-api/docs/rate-limits""
+}
+, violations {
+  quota_metric: ""generativelanguage.googleapis.com/generate_requests_per_model_per_day""
+  quota_id: ""GenerateRequestsPerDayPerProjectPerModel""
+}
+]",UP,89460.02,CORRECT,0.0341%
+2025-12-14 20:23:59,ETHUSDT,3098.75,BUY,"Error: 429 You exceeded your current quota, please check your plan and billing details. For more information on this error, head to: https://ai.google.dev/gemini-api/docs/rate-limits. To monitor your current usage, head to: https://ai.dev/usage?tab=rate-limit. 
+* Quota exceeded for metric: generativelanguage.googleapis.com/generate_requests_per_model_per_day, limit: 0 [links {
+  description: ""Learn more about Gemini API quotas""
+  url: ""https://ai.google.dev/gemini-api/docs/rate-limits""
+}
+, violations {
+  quota_metric: ""generativelanguage.googleapis.com/generate_requests_per_model_per_day""
+  quota_id: ""GenerateRequestsPerDayPerProjectPerModel""
+}
+]",UP,3101.82,CORRECT,0.0991%
+2025-12-14 20:23:59,BNBUSDT,891.34,BUY,"Error: 429 You exceeded your current quota, please check your plan and billing details. For more information on this error, head to: https://ai.google.dev/gemini-api/docs/rate-limits. To monitor your current usage, head to: https://ai.dev/usage?tab=rate-limit. 
+* Quota exceeded for metric: generativelanguage.googleapis.com/generate_requests_per_model_per_day, limit: 0 [links {
+  description: ""Learn more about Gemini API quotas""
+  url: ""https://ai.google.dev/gemini-api/docs/rate-limits""
+}
+, violations {
+  quota_metric: ""generativelanguage.googleapis.com/generate_requests_per_model_per_day""
+  quota_id: ""GenerateRequestsPerDayPerProjectPerModel""
+}
+]",UP,891.62,CORRECT,0.0314%
+2025-12-14 20:23:59,SOLUSDT,131.65,BUY,"Error: 429 You exceeded your current quota, please check your plan and billing details. For more information on this error, head to: https://ai.google.dev/gemini-api/docs/rate-limits. To monitor your current usage, head to: https://ai.dev/usage?tab=rate-limit. 
+* Quota exceeded for metric: generativelanguage.googleapis.com/generate_requests_per_model_per_day, limit: 0 [links {
+  description: ""Learn more about Gemini API quotas""
+  url: ""https://ai.google.dev/gemini-api/docs/rate-limits""
+}
+, violations {
+  quota_metric: ""generativelanguage.googleapis.com/generate_requests_per_model_per_day""
+  quota_id: ""GenerateRequestsPerDayPerProjectPerModel""
+}
+]",UP,131.69,CORRECT,0.0304%
+2025-12-14 20:23:59,PEPEUSDT,4.31e-06,BUY,"Error: 429 You exceeded your current quota, please check your plan and billing details. For more information on this error, head to: https://ai.google.dev/gemini-api/docs/rate-limits. To monitor your current usage, head to: https://ai.dev/usage?tab=rate-limit. 
+* Quota exceeded for metric: generativelanguage.googleapis.com/generate_requests_per_model_per_day, limit: 0 [links {
+  description: ""Learn more about Gemini API quotas""
+  url: ""https://ai.google.dev/gemini-api/docs/rate-limits""
+}
+, violations {
+  quota_metric: ""generativelanguage.googleapis.com/generate_requests_per_model_per_day""
+  quota_id: ""GenerateRequestsPerDayPerProjectPerModel""
+}
+]",UP,4.3e-06,WRONG,-0.2320%
+2025-12-14 20:25:00,BTCUSDT,89460.02,BUY,"Error: 429 You exceeded your current quota, please check your plan and billing details. For more information on this error, head to: https://ai.google.dev/gemini-api/docs/rate-limits. To monitor your current usage, head to: https://ai.dev/usage?tab=rate-limit. 
+* Quota exceeded for metric: generativelanguage.googleapis.com/generate_requests_per_model_per_day, limit: 0 [links {
+  description: ""Learn more about Gemini API quotas""
+  url: ""https://ai.google.dev/gemini-api/docs/rate-limits""
+}
+, violations {
+  quota_metric: ""generativelanguage.googleapis.com/generate_requests_per_model_per_day""
+  quota_id: ""GenerateRequestsPerDayPerProjectPerModel""
+}
+]",UP,89406.66,WRONG,-0.0596%
+2025-12-14 20:25:00,ETHUSDT,3101.82,BUY,"Error: 429 You exceeded your current quota, please check your plan and billing details. For more information on this error, head to: https://ai.google.dev/gemini-api/docs/rate-limits. To monitor your current usage, head to: https://ai.dev/usage?tab=rate-limit. 
+* Quota exceeded for metric: generativelanguage.googleapis.com/generate_requests_per_model_per_day, limit: 0 [links {
+  description: ""Learn more about Gemini API quotas""
+  url: ""https://ai.google.dev/gemini-api/docs/rate-limits""
+}
+, violations {
+  quota_metric: ""generativelanguage.googleapis.com/generate_requests_per_model_per_day""
+  quota_id: ""GenerateRequestsPerDayPerProjectPerModel""
+}
+]",UP,3099.18,WRONG,-0.0851%
+2025-12-14 20:25:00,BNBUSDT,891.62,BUY,"Error: 429 You exceeded your current quota, please check your plan and billing details. For more information on this error, head to: https://ai.google.dev/gemini-api/docs/rate-limits. To monitor your current usage, head to: https://ai.dev/usage?tab=rate-limit. 
+* Quota exceeded for metric: generativelanguage.googleapis.com/generate_requests_per_model_per_day, limit: 0 [links {
+  description: ""Learn more about Gemini API quotas""
+  url: ""https://ai.google.dev/gemini-api/docs/rate-limits""
+}
+, violations {
+  quota_metric: ""generativelanguage.googleapis.com/generate_requests_per_model_per_day""
+  quota_id: ""GenerateRequestsPerDayPerProjectPerModel""
+}
+]",UP,891.05,WRONG,-0.0639%
+2025-12-14 20:25:00,SOLUSDT,131.68,BUY,"Error: 429 You exceeded your current quota, please check your plan and billing details. For more information on this error, head to: https://ai.google.dev/gemini-api/docs/rate-limits. To monitor your current usage, head to: https://ai.dev/usage?tab=rate-limit. 
+* Quota exceeded for metric: generativelanguage.googleapis.com/generate_requests_per_model_per_day, limit: 0 [links {
+  description: ""Learn more about Gemini API quotas""
+  url: ""https://ai.google.dev/gemini-api/docs/rate-limits""
+}
+, violations {
+  quota_metric: ""generativelanguage.googleapis.com/generate_requests_per_model_per_day""
+  quota_id: ""GenerateRequestsPerDayPerProjectPerModel""
+}
+]",UP,131.44,WRONG,-0.1823%
+2025-12-14 20:25:00,PEPEUSDT,4.3e-06,BUY,"Error: 429 You exceeded your current quota, please check your plan and billing details. For more information on this error, head to: https://ai.google.dev/gemini-api/docs/rate-limits. To monitor your current usage, head to: https://ai.dev/usage?tab=rate-limit. 
+* Quota exceeded for metric: generativelanguage.googleapis.com/generate_requests_per_model_per_day, limit: 0 [links {
+  description: ""Learn more about Gemini API quotas""
+  url: ""https://ai.google.dev/gemini-api/docs/rate-limits""
+}
+, violations {
+  quota_metric: ""generativelanguage.googleapis.com/generate_requests_per_model_per_day""
+  quota_id: ""GenerateRequestsPerDayPerProjectPerModel""
+}
+]",UP,4.29e-06,WRONG,-0.2326%
+2025-12-14 20:26:02,BTCUSDT,89406.66,BUY,"Error: 429 You exceeded your current quota, please check your plan and billing details. For more information on this error, head to: https://ai.google.dev/gemini-api/docs/rate-limits. To monitor your current usage, head to: https://ai.dev/usage?tab=rate-limit. 
+* Quota exceeded for metric: generativelanguage.googleapis.com/generate_requests_per_model_per_day, limit: 0 [links {
+  description: ""Learn more about Gemini API quotas""
+  url: ""https://ai.google.dev/gemini-api/docs/rate-limits""
+}
+, violations {
+  quota_metric: ""generativelanguage.googleapis.com/generate_requests_per_model_per_day""
+  quota_id: ""GenerateRequestsPerDayPerProjectPerModel""
+}
+]",UP,89419.72,CORRECT,0.0146%
+2025-12-14 20:26:02,ETHUSDT,3099.16,BUY,"Error: 429 You exceeded your current quota, please check your plan and billing details. For more information on this error, head to: https://ai.google.dev/gemini-api/docs/rate-limits. To monitor your current usage, head to: https://ai.dev/usage?tab=rate-limit. 
+* Quota exceeded for metric: generativelanguage.googleapis.com/generate_requests_per_model_per_day, limit: 0 [links {
+  description: ""Learn more about Gemini API quotas""
+  url: ""https://ai.google.dev/gemini-api/docs/rate-limits""
+}
+, violations {
+  quota_metric: ""generativelanguage.googleapis.com/generate_requests_per_model_per_day""
+  quota_id: ""GenerateRequestsPerDayPerProjectPerModel""
+}
+]",UP,3098.76,WRONG,-0.0129%
+2025-12-14 20:26:02,BNBUSDT,891.05,BUY,"Error: 429 You exceeded your current quota, please check your plan and billing details. For more information on this error, head to: https://ai.google.dev/gemini-api/docs/rate-limits. To monitor your current usage, head to: https://ai.dev/usage?tab=rate-limit. 
+* Quota exceeded for metric: generativelanguage.googleapis.com/generate_requests_per_model_per_day, limit: 0 [links {
+  description: ""Learn more about Gemini API quotas""
+  url: ""https://ai.google.dev/gemini-api/docs/rate-limits""
+}
+, violations {
+  quota_metric: ""generativelanguage.googleapis.com/generate_requests_per_model_per_day""
+  quota_id: ""GenerateRequestsPerDayPerProjectPerModel""
+}
+]",UP,891.09,CORRECT,0.0045%
+2025-12-14 20:26:02,SOLUSDT,131.44,BUY,"Error: 429 You exceeded your current quota, please check your plan and billing details. For more information on this error, head to: https://ai.google.dev/gemini-api/docs/rate-limits. To monitor your current usage, head to: https://ai.dev/usage?tab=rate-limit. 
+* Quota exceeded for metric: generativelanguage.googleapis.com/generate_requests_per_model_per_day, limit: 0 [links {
+  description: ""Learn more about Gemini API quotas""
+  url: ""https://ai.google.dev/gemini-api/docs/rate-limits""
+}
+, violations {
+  quota_metric: ""generativelanguage.googleapis.com/generate_requests_per_model_per_day""
+  quota_id: ""GenerateRequestsPerDayPerProjectPerModel""
+}
+]",UP,131.42,WRONG,-0.0152%
+2025-12-14 20:26:02,PEPEUSDT,4.29e-06,BUY,"Error: 429 You exceeded your current quota, please check your plan and billing details. For more information on this error, head to: https://ai.google.dev/gemini-api/docs/rate-limits. To monitor your current usage, head to: https://ai.dev/usage?tab=rate-limit. 
+* Quota exceeded for metric: generativelanguage.googleapis.com/generate_requests_per_model_per_day, limit: 0 [links {
+  description: ""Learn more about Gemini API quotas""
+  url: ""https://ai.google.dev/gemini-api/docs/rate-limits""
+}
+, violations {
+  quota_metric: ""generativelanguage.googleapis.com/generate_requests_per_model_per_day""
+  quota_id: ""GenerateRequestsPerDayPerProjectPerModel""
+}
+]",UP,4.3e-06,CORRECT,0.2331%
+2025-12-14 20:27:03,BTCUSDT,89419.72,BUY,"Error: 429 You exceeded your current quota, please check your plan and billing details. For more information on this error, head to: https://ai.google.dev/gemini-api/docs/rate-limits. To monitor your current usage, head to: https://ai.dev/usage?tab=rate-limit. 
+* Quota exceeded for metric: generativelanguage.googleapis.com/generate_requests_per_model_per_day, limit: 0 [links {
+  description: ""Learn more about Gemini API quotas""
+  url: ""https://ai.google.dev/gemini-api/docs/rate-limits""
+}
+, violations {
+  quota_metric: ""generativelanguage.googleapis.com/generate_requests_per_model_per_day""
+  quota_id: ""GenerateRequestsPerDayPerProjectPerModel""
+}
+]",UP,89426.95,CORRECT,0.0081%
+2025-12-14 20:27:03,ETHUSDT,3098.76,BUY,"Error: 429 You exceeded your current quota, please check your plan and billing details. For more information on this error, head to: https://ai.google.dev/gemini-api/docs/rate-limits. To monitor your current usage, head to: https://ai.dev/usage?tab=rate-limit. 
+* Quota exceeded for metric: generativelanguage.googleapis.com/generate_requests_per_model_per_day, limit: 0 [links {
+  description: ""Learn more about Gemini API quotas""
+  url: ""https://ai.google.dev/gemini-api/docs/rate-limits""
+}
+, violations {
+  quota_metric: ""generativelanguage.googleapis.com/generate_requests_per_model_per_day""
+  quota_id: ""GenerateRequestsPerDayPerProjectPerModel""
+}
+]",UP,3098.86,CORRECT,0.0032%
+2025-12-14 20:27:03,BNBUSDT,891.09,BUY,"Error: 429 You exceeded your current quota, please check your plan and billing details. For more information on this error, head to: https://ai.google.dev/gemini-api/docs/rate-limits. To monitor your current usage, head to: https://ai.dev/usage?tab=rate-limit. 
+* Quota exceeded for metric: generativelanguage.googleapis.com/generate_requests_per_model_per_day, limit: 0 [links {
+  description: ""Learn more about Gemini API quotas""
+  url: ""https://ai.google.dev/gemini-api/docs/rate-limits""
+}
+, violations {
+  quota_metric: ""generativelanguage.googleapis.com/generate_requests_per_model_per_day""
+  quota_id: ""GenerateRequestsPerDayPerProjectPerModel""
+}
+]",UP,891.13,CORRECT,0.0045%
+2025-12-14 20:27:03,SOLUSDT,131.42,BUY,"Error: 429 You exceeded your current quota, please check your plan and billing details. For more information on this error, head to: https://ai.google.dev/gemini-api/docs/rate-limits. To monitor your current usage, head to: https://ai.dev/usage?tab=rate-limit. 
+* Quota exceeded for metric: generativelanguage.googleapis.com/generate_requests_per_model_per_day, limit: 0 [links {
+  description: ""Learn more about Gemini API quotas""
+  url: ""https://ai.google.dev/gemini-api/docs/rate-limits""
+}
+, violations {
+  quota_metric: ""generativelanguage.googleapis.com/generate_requests_per_model_per_day""
+  quota_id: ""GenerateRequestsPerDayPerProjectPerModel""
+}
+]",UP,131.44,CORRECT,0.0152%
+2025-12-14 20:27:03,PEPEUSDT,4.3e-06,BUY,"Error: 429 You exceeded your current quota, please check your plan and billing details. For more information on this error, head to: https://ai.google.dev/gemini-api/docs/rate-limits. To monitor your current usage, head to: https://ai.dev/usage?tab=rate-limit. 
+* Quota exceeded for metric: generativelanguage.googleapis.com/generate_requests_per_model_per_day, limit: 0 [links {
+  description: ""Learn more about Gemini API quotas""
+  url: ""https://ai.google.dev/gemini-api/docs/rate-limits""
+}
+, violations {
+  quota_metric: ""generativelanguage.googleapis.com/generate_requests_per_model_per_day""
+  quota_id: ""GenerateRequestsPerDayPerProjectPerModel""
+}
+]",UP,4.3e-06,WRONG,0.0000%
+2025-12-14 20:28:05,BTCUSDT,89426.95,BUY,"Error: 429 You exceeded your current quota, please check your plan and billing details. For more information on this error, head to: https://ai.google.dev/gemini-api/docs/rate-limits. To monitor your current usage, head to: https://ai.dev/usage?tab=rate-limit. 
+* Quota exceeded for metric: generativelanguage.googleapis.com/generate_requests_per_model_per_day, limit: 0 [links {
+  description: ""Learn more about Gemini API quotas""
+  url: ""https://ai.google.dev/gemini-api/docs/rate-limits""
+}
+, violations {
+  quota_metric: ""generativelanguage.googleapis.com/generate_requests_per_model_per_day""
+  quota_id: ""GenerateRequestsPerDayPerProjectPerModel""
+}
+]",UP,89409.61,WRONG,-0.0194%
+2025-12-14 20:28:05,ETHUSDT,3098.8,BUY,"Error: 429 You exceeded your current quota, please check your plan and billing details. For more information on this error, head to: https://ai.google.dev/gemini-api/docs/rate-limits. To monitor your current usage, head to: https://ai.dev/usage?tab=rate-limit. 
+* Quota exceeded for metric: generativelanguage.googleapis.com/generate_requests_per_model_per_day, limit: 0 [links {
+  description: ""Learn more about Gemini API quotas""
+  url: ""https://ai.google.dev/gemini-api/docs/rate-limits""
+}
+, violations {
+  quota_metric: ""generativelanguage.googleapis.com/generate_requests_per_model_per_day""
+  quota_id: ""GenerateRequestsPerDayPerProjectPerModel""
+}
+]",UP,3098.48,WRONG,-0.0103%
+2025-12-14 20:28:05,BNBUSDT,891.13,BUY,"Error: 429 You exceeded your current quota, please check your plan and billing details. For more information on this error, head to: https://ai.google.dev/gemini-api/docs/rate-limits. To monitor your current usage, head to: https://ai.dev/usage?tab=rate-limit. 
+* Quota exceeded for metric: generativelanguage.googleapis.com/generate_requests_per_model_per_day, limit: 0 [links {
+  description: ""Learn more about Gemini API quotas""
+  url: ""https://ai.google.dev/gemini-api/docs/rate-limits""
+}
+, violations {
+  quota_metric: ""generativelanguage.googleapis.com/generate_requests_per_model_per_day""
+  quota_id: ""GenerateRequestsPerDayPerProjectPerModel""
+}
+]",UP,890.94,WRONG,-0.0213%
+2025-12-14 20:28:05,SOLUSDT,131.43,BUY,"Error: 429 You exceeded your current quota, please check your plan and billing details. For more information on this error, head to: https://ai.google.dev/gemini-api/docs/rate-limits. To monitor your current usage, head to: https://ai.dev/usage?tab=rate-limit. 
+* Quota exceeded for metric: generativelanguage.googleapis.com/generate_requests_per_model_per_day, limit: 0 [links {
+  description: ""Learn more about Gemini API quotas""
+  url: ""https://ai.google.dev/gemini-api/docs/rate-limits""
+}
+, violations {
+  quota_metric: ""generativelanguage.googleapis.com/generate_requests_per_model_per_day""
+  quota_id: ""GenerateRequestsPerDayPerProjectPerModel""
+}
+]",UP,131.42,WRONG,-0.0076%
+2025-12-14 20:28:05,PEPEUSDT,4.3e-06,BUY,"Error: 429 You exceeded your current quota, please check your plan and billing details. For more information on this error, head to: https://ai.google.dev/gemini-api/docs/rate-limits. To monitor your current usage, head to: https://ai.dev/usage?tab=rate-limit. 
+* Quota exceeded for metric: generativelanguage.googleapis.com/generate_requests_per_model_per_day, limit: 0 [links {
+  description: ""Learn more about Gemini API quotas""
+  url: ""https://ai.google.dev/gemini-api/docs/rate-limits""
+}
+, violations {
+  quota_metric: ""generativelanguage.googleapis.com/generate_requests_per_model_per_day""
+  quota_id: ""GenerateRequestsPerDayPerProjectPerModel""
+}
+]",UP,4.3e-06,WRONG,0.0000%
+2025-12-14 20:29:06,BTCUSDT,89409.6,BUY,"Error: 429 You exceeded your current quota, please check your plan and billing details. For more information on this error, head to: https://ai.google.dev/gemini-api/docs/rate-limits. To monitor your current usage, head to: https://ai.dev/usage?tab=rate-limit. 
+* Quota exceeded for metric: generativelanguage.googleapis.com/generate_requests_per_model_per_day, limit: 0 [links {
+  description: ""Learn more about Gemini API quotas""
+  url: ""https://ai.google.dev/gemini-api/docs/rate-limits""
+}
+, violations {
+  quota_metric: ""generativelanguage.googleapis.com/generate_requests_per_model_per_day""
+  quota_id: ""GenerateRequestsPerDayPerProjectPerModel""
+}
+]",UP,89381.46,WRONG,-0.0315%
+2025-12-14 20:29:06,ETHUSDT,3098.17,BUY,"Error: 429 You exceeded your current quota, please check your plan and billing details. For more information on this error, head to: https://ai.google.dev/gemini-api/docs/rate-limits. To monitor your current usage, head to: https://ai.dev/usage?tab=rate-limit. 
+* Quota exceeded for metric: generativelanguage.googleapis.com/generate_requests_per_model_per_day, limit: 0 [links {
+  description: ""Learn more about Gemini API quotas""
+  url: ""https://ai.google.dev/gemini-api/docs/rate-limits""
+}
+, violations {
+  quota_metric: ""generativelanguage.googleapis.com/generate_requests_per_model_per_day""
+  quota_id: ""GenerateRequestsPerDayPerProjectPerModel""
+}
+]",UP,3096.76,WRONG,-0.0455%
+2025-12-14 20:29:06,BNBUSDT,890.95,BUY,"Error: 429 You exceeded your current quota, please check your plan and billing details. For more information on this error, head to: https://ai.google.dev/gemini-api/docs/rate-limits. To monitor your current usage, head to: https://ai.dev/usage?tab=rate-limit. 
+* Quota exceeded for metric: generativelanguage.googleapis.com/generate_requests_per_model_per_day, limit: 0 [links {
+  description: ""Learn more about Gemini API quotas""
+  url: ""https://ai.google.dev/gemini-api/docs/rate-limits""
+}
+, violations {
+  quota_metric: ""generativelanguage.googleapis.com/generate_requests_per_model_per_day""
+  quota_id: ""GenerateRequestsPerDayPerProjectPerModel""
+}
+]",UP,890.43,WRONG,-0.0584%
+2025-12-14 20:29:06,SOLUSDT,131.41,BUY,"Error: 429 You exceeded your current quota, please check your plan and billing details. For more information on this error, head to: https://ai.google.dev/gemini-api/docs/rate-limits. To monitor your current usage, head to: https://ai.dev/usage?tab=rate-limit. 
+* Quota exceeded for metric: generativelanguage.googleapis.com/generate_requests_per_model_per_day, limit: 0 [links {
+  description: ""Learn more about Gemini API quotas""
+  url: ""https://ai.google.dev/gemini-api/docs/rate-limits""
+}
+, violations {
+  quota_metric: ""generativelanguage.googleapis.com/generate_requests_per_model_per_day""
+  quota_id: ""GenerateRequestsPerDayPerProjectPerModel""
+}
+]",UP,131.4,WRONG,-0.0076%
+2025-12-14 20:29:06,PEPEUSDT,4.3e-06,BUY,"Error: 429 You exceeded your current quota, please check your plan and billing details. For more information on this error, head to: https://ai.google.dev/gemini-api/docs/rate-limits. To monitor your current usage, head to: https://ai.dev/usage?tab=rate-limit. 
+* Quota exceeded for metric: generativelanguage.googleapis.com/generate_requests_per_model_per_day, limit: 0 [links {
+  description: ""Learn more about Gemini API quotas""
+  url: ""https://ai.google.dev/gemini-api/docs/rate-limits""
+}
+, violations {
+  quota_metric: ""generativelanguage.googleapis.com/generate_requests_per_model_per_day""
+  quota_id: ""GenerateRequestsPerDayPerProjectPerModel""
+}
+]",UP,4.3e-06,WRONG,0.0000%
+2025-12-14 20:30:07,BTCUSDT,89381.46,BUY,"Error: 429 You exceeded your current quota, please check your plan and billing details. For more information on this error, head to: https://ai.google.dev/gemini-api/docs/rate-limits. To monitor your current usage, head to: https://ai.dev/usage?tab=rate-limit. 
+* Quota exceeded for metric: generativelanguage.googleapis.com/generate_requests_per_model_per_day, limit: 0 [links {
+  description: ""Learn more about Gemini API quotas""
+  url: ""https://ai.google.dev/gemini-api/docs/rate-limits""
+}
+, violations {
+  quota_metric: ""generativelanguage.googleapis.com/generate_requests_per_model_per_day""
+  quota_id: ""GenerateRequestsPerDayPerProjectPerModel""
+}
+]",UP,89383.56,CORRECT,0.0023%
+2025-12-14 20:30:07,ETHUSDT,3096.76,BUY,"Error: 429 You exceeded your current quota, please check your plan and billing details. For more information on this error, head to: https://ai.google.dev/gemini-api/docs/rate-limits. To monitor your current usage, head to: https://ai.dev/usage?tab=rate-limit. 
+* Quota exceeded for metric: generativelanguage.googleapis.com/generate_requests_per_model_per_day, limit: 0 [links {
+  description: ""Learn more about Gemini API quotas""
+  url: ""https://ai.google.dev/gemini-api/docs/rate-limits""
+}
+, violations {
+  quota_metric: ""generativelanguage.googleapis.com/generate_requests_per_model_per_day""
+  quota_id: ""GenerateRequestsPerDayPerProjectPerModel""
+}
+]",UP,3098.48,CORRECT,0.0555%
+2025-12-14 20:30:07,BNBUSDT,890.43,BUY,"Error: 429 You exceeded your current quota, please check your plan and billing details. For more information on this error, head to: https://ai.google.dev/gemini-api/docs/rate-limits. To monitor your current usage, head to: https://ai.dev/usage?tab=rate-limit. 
+* Quota exceeded for metric: generativelanguage.googleapis.com/generate_requests_per_model_per_day, limit: 0 [links {
+  description: ""Learn more about Gemini API quotas""
+  url: ""https://ai.google.dev/gemini-api/docs/rate-limits""
+}
+, violations {
+  quota_metric: ""generativelanguage.googleapis.com/generate_requests_per_model_per_day""
+  quota_id: ""GenerateRequestsPerDayPerProjectPerModel""
+}
+]",UP,890.84,CORRECT,0.0460%
+2025-12-14 20:30:07,SOLUSDT,131.4,BUY,"Error: 429 You exceeded your current quota, please check your plan and billing details. For more information on this error, head to: https://ai.google.dev/gemini-api/docs/rate-limits. To monitor your current usage, head to: https://ai.dev/usage?tab=rate-limit. 
+* Quota exceeded for metric: generativelanguage.googleapis.com/generate_requests_per_model_per_day, limit: 0 [links {
+  description: ""Learn more about Gemini API quotas""
+  url: ""https://ai.google.dev/gemini-api/docs/rate-limits""
+}
+, violations {
+  quota_metric: ""generativelanguage.googleapis.com/generate_requests_per_model_per_day""
+  quota_id: ""GenerateRequestsPerDayPerProjectPerModel""
+}
+]",UP,131.49,CORRECT,0.0685%
+2025-12-14 20:30:07,PEPEUSDT,4.3e-06,BUY,"Error: 429 You exceeded your current quota, please check your plan and billing details. For more information on this error, head to: https://ai.google.dev/gemini-api/docs/rate-limits. To monitor your current usage, head to: https://ai.dev/usage?tab=rate-limit. 
+* Quota exceeded for metric: generativelanguage.googleapis.com/generate_requests_per_model_per_day, limit: 0 [links {
+  description: ""Learn more about Gemini API quotas""
+  url: ""https://ai.google.dev/gemini-api/docs/rate-limits""
+}
+, violations {
+  quota_metric: ""generativelanguage.googleapis.com/generate_requests_per_model_per_day""
+  quota_id: ""GenerateRequestsPerDayPerProjectPerModel""
+}
+]",UP,4.29e-06,WRONG,-0.2326%
+2025-12-14 20:31:08,BTCUSDT,89383.56,BUY,"Error: 429 You exceeded your current quota, please check your plan and billing details. For more information on this error, head to: https://ai.google.dev/gemini-api/docs/rate-limits. To monitor your current usage, head to: https://ai.dev/usage?tab=rate-limit. 
+* Quota exceeded for metric: generativelanguage.googleapis.com/generate_requests_per_model_per_day, limit: 0 [links {
+  description: ""Learn more about Gemini API quotas""
+  url: ""https://ai.google.dev/gemini-api/docs/rate-limits""
+}
+, violations {
+  quota_metric: ""generativelanguage.googleapis.com/generate_requests_per_model_per_day""
+  quota_id: ""GenerateRequestsPerDayPerProjectPerModel""
+}
+]",UP,89482.0,CORRECT,0.1101%
+2025-12-14 20:31:08,ETHUSDT,3098.48,BUY,"Error: 429 You exceeded your current quota, please check your plan and billing details. For more information on this error, head to: https://ai.google.dev/gemini-api/docs/rate-limits. To monitor your current usage, head to: https://ai.dev/usage?tab=rate-limit. 
+* Quota exceeded for metric: generativelanguage.googleapis.com/generate_requests_per_model_per_day, limit: 0 [links {
+  description: ""Learn more about Gemini API quotas""
+  url: ""https://ai.google.dev/gemini-api/docs/rate-limits""
+}
+, violations {
+  quota_metric: ""generativelanguage.googleapis.com/generate_requests_per_model_per_day""
+  quota_id: ""GenerateRequestsPerDayPerProjectPerModel""
+}
+]",UP,3101.39,CORRECT,0.0939%
+2025-12-14 20:31:08,BNBUSDT,890.84,BUY,"Error: 429 You exceeded your current quota, please check your plan and billing details. For more information on this error, head to: https://ai.google.dev/gemini-api/docs/rate-limits. To monitor your current usage, head to: https://ai.dev/usage?tab=rate-limit. 
+* Quota exceeded for metric: generativelanguage.googleapis.com/generate_requests_per_model_per_day, limit: 0 [links {
+  description: ""Learn more about Gemini API quotas""
+  url: ""https://ai.google.dev/gemini-api/docs/rate-limits""
+}
+, violations {
+  quota_metric: ""generativelanguage.googleapis.com/generate_requests_per_model_per_day""
+  quota_id: ""GenerateRequestsPerDayPerProjectPerModel""
+}
+]",UP,891.33,CORRECT,0.0550%
+2025-12-14 20:31:08,SOLUSDT,131.49,BUY,"Error: 429 You exceeded your current quota, please check your plan and billing details. For more information on this error, head to: https://ai.google.dev/gemini-api/docs/rate-limits. To monitor your current usage, head to: https://ai.dev/usage?tab=rate-limit. 
+* Quota exceeded for metric: generativelanguage.googleapis.com/generate_requests_per_model_per_day, limit: 0 [links {
+  description: ""Learn more about Gemini API quotas""
+  url: ""https://ai.google.dev/gemini-api/docs/rate-limits""
+}
+, violations {
+  quota_metric: ""generativelanguage.googleapis.com/generate_requests_per_model_per_day""
+  quota_id: ""GenerateRequestsPerDayPerProjectPerModel""
+}
+]",UP,131.62,CORRECT,0.0989%
+2025-12-14 20:31:08,PEPEUSDT,4.29e-06,BUY,"Error: 429 You exceeded your current quota, please check your plan and billing details. For more information on this error, head to: https://ai.google.dev/gemini-api/docs/rate-limits. To monitor your current usage, head to: https://ai.dev/usage?tab=rate-limit. 
+* Quota exceeded for metric: generativelanguage.googleapis.com/generate_requests_per_model_per_day, limit: 0 [links {
+  description: ""Learn more about Gemini API quotas""
+  url: ""https://ai.google.dev/gemini-api/docs/rate-limits""
+}
+, violations {
+  quota_metric: ""generativelanguage.googleapis.com/generate_requests_per_model_per_day""
+  quota_id: ""GenerateRequestsPerDayPerProjectPerModel""
+}
+]",UP,4.3e-06,CORRECT,0.2331%
+2025-12-14 20:32:09,BTCUSDT,89482.0,BUY,"Error: 429 You exceeded your current quota, please check your plan and billing details. For more information on this error, head to: https://ai.google.dev/gemini-api/docs/rate-limits. To monitor your current usage, head to: https://ai.dev/usage?tab=rate-limit. 
+* Quota exceeded for metric: generativelanguage.googleapis.com/generate_requests_per_model_per_day, limit: 0 [links {
+  description: ""Learn more about Gemini API quotas""
+  url: ""https://ai.google.dev/gemini-api/docs/rate-limits""
+}
+, violations {
+  quota_metric: ""generativelanguage.googleapis.com/generate_requests_per_model_per_day""
+  quota_id: ""GenerateRequestsPerDayPerProjectPerModel""
+}
+]",UP,89424.79,WRONG,-0.0639%
+2025-12-14 20:32:09,ETHUSDT,3101.39,BUY,"Error: 429 You exceeded your current quota, please check your plan and billing details. For more information on this error, head to: https://ai.google.dev/gemini-api/docs/rate-limits. To monitor your current usage, head to: https://ai.dev/usage?tab=rate-limit. 
+* Quota exceeded for metric: generativelanguage.googleapis.com/generate_requests_per_model_per_day, limit: 0 [links {
+  description: ""Learn more about Gemini API quotas""
+  url: ""https://ai.google.dev/gemini-api/docs/rate-limits""
+}
+, violations {
+  quota_metric: ""generativelanguage.googleapis.com/generate_requests_per_model_per_day""
+  quota_id: ""GenerateRequestsPerDayPerProjectPerModel""
+}
+]",UP,3100.0,WRONG,-0.0448%
+2025-12-14 20:32:09,BNBUSDT,891.32,BUY,"Error: 429 You exceeded your current quota, please check your plan and billing details. For more information on this error, head to: https://ai.google.dev/gemini-api/docs/rate-limits. To monitor your current usage, head to: https://ai.dev/usage?tab=rate-limit. 
+* Quota exceeded for metric: generativelanguage.googleapis.com/generate_requests_per_model_per_day, limit: 0 [links {
+  description: ""Learn more about Gemini API quotas""
+  url: ""https://ai.google.dev/gemini-api/docs/rate-limits""
+}
+, violations {
+  quota_metric: ""generativelanguage.googleapis.com/generate_requests_per_model_per_day""
+  quota_id: ""GenerateRequestsPerDayPerProjectPerModel""
+}
+]",UP,891.47,CORRECT,0.0168%
+2025-12-14 20:32:09,SOLUSDT,131.63,BUY,"Error: 429 You exceeded your current quota, please check your plan and billing details. For more information on this error, head to: https://ai.google.dev/gemini-api/docs/rate-limits. To monitor your current usage, head to: https://ai.dev/usage?tab=rate-limit. 
+* Quota exceeded for metric: generativelanguage.googleapis.com/generate_requests_per_model_per_day, limit: 0 [links {
+  description: ""Learn more about Gemini API quotas""
+  url: ""https://ai.google.dev/gemini-api/docs/rate-limits""
+}
+, violations {
+  quota_metric: ""generativelanguage.googleapis.com/generate_requests_per_model_per_day""
+  quota_id: ""GenerateRequestsPerDayPerProjectPerModel""
+}
+]",UP,131.51,WRONG,-0.0912%
+2025-12-14 20:32:09,PEPEUSDT,4.31e-06,BUY,"Error: 429 You exceeded your current quota, please check your plan and billing details. For more information on this error, head to: https://ai.google.dev/gemini-api/docs/rate-limits. To monitor your current usage, head to: https://ai.dev/usage?tab=rate-limit. 
+* Quota exceeded for metric: generativelanguage.googleapis.com/generate_requests_per_model_per_day, limit: 0 [links {
+  description: ""Learn more about Gemini API quotas""
+  url: ""https://ai.google.dev/gemini-api/docs/rate-limits""
+}
+, violations {
+  quota_metric: ""generativelanguage.googleapis.com/generate_requests_per_model_per_day""
+  quota_id: ""GenerateRequestsPerDayPerProjectPerModel""
+}
+]",UP,4.31e-06,WRONG,0.0000%
+2025-12-14 20:33:11,BTCUSDT,89424.79,BUY,"Error: 429 You exceeded your current quota, please check your plan and billing details. For more information on this error, head to: https://ai.google.dev/gemini-api/docs/rate-limits. To monitor your current usage, head to: https://ai.dev/usage?tab=rate-limit. 
+* Quota exceeded for metric: generativelanguage.googleapis.com/generate_requests_per_model_per_day, limit: 0 [links {
+  description: ""Learn more about Gemini API quotas""
+  url: ""https://ai.google.dev/gemini-api/docs/rate-limits""
+}
+, violations {
+  quota_metric: ""generativelanguage.googleapis.com/generate_requests_per_model_per_day""
+  quota_id: ""GenerateRequestsPerDayPerProjectPerModel""
+}
+]",UP,89439.34,CORRECT,0.0163%
+2025-12-14 20:33:11,ETHUSDT,3100.0,BUY,"Error: 429 You exceeded your current quota, please check your plan and billing details. For more information on this error, head to: https://ai.google.dev/gemini-api/docs/rate-limits. To monitor your current usage, head to: https://ai.dev/usage?tab=rate-limit. 
+* Quota exceeded for metric: generativelanguage.googleapis.com/generate_requests_per_model_per_day, limit: 0 [links {
+  description: ""Learn more about Gemini API quotas""
+  url: ""https://ai.google.dev/gemini-api/docs/rate-limits""
+}
+, violations {
+  quota_metric: ""generativelanguage.googleapis.com/generate_requests_per_model_per_day""
+  quota_id: ""GenerateRequestsPerDayPerProjectPerModel""
+}
+]",UP,3100.88,CORRECT,0.0284%
+2025-12-14 20:33:11,BNBUSDT,891.47,BUY,"Error: 429 You exceeded your current quota, please check your plan and billing details. For more information on this error, head to: https://ai.google.dev/gemini-api/docs/rate-limits. To monitor your current usage, head to: https://ai.dev/usage?tab=rate-limit. 
+* Quota exceeded for metric: generativelanguage.googleapis.com/generate_requests_per_model_per_day, limit: 0 [links {
+  description: ""Learn more about Gemini API quotas""
+  url: ""https://ai.google.dev/gemini-api/docs/rate-limits""
+}
+, violations {
+  quota_metric: ""generativelanguage.googleapis.com/generate_requests_per_model_per_day""
+  quota_id: ""GenerateRequestsPerDayPerProjectPerModel""
+}
+]",UP,891.32,WRONG,-0.0168%
+2025-12-14 20:33:11,SOLUSDT,131.51,BUY,"Error: 429 You exceeded your current quota, please check your plan and billing details. For more information on this error, head to: https://ai.google.dev/gemini-api/docs/rate-limits. To monitor your current usage, head to: https://ai.dev/usage?tab=rate-limit. 
+* Quota exceeded for metric: generativelanguage.googleapis.com/generate_requests_per_model_per_day, limit: 0 [links {
+  description: ""Learn more about Gemini API quotas""
+  url: ""https://ai.google.dev/gemini-api/docs/rate-limits""
+}
+, violations {
+  quota_metric: ""generativelanguage.googleapis.com/generate_requests_per_model_per_day""
+  quota_id: ""GenerateRequestsPerDayPerProjectPerModel""
+}
+]",UP,131.5,WRONG,-0.0076%
+2025-12-14 20:33:11,PEPEUSDT,4.31e-06,BUY,"Error: 429 You exceeded your current quota, please check your plan and billing details. For more information on this error, head to: https://ai.google.dev/gemini-api/docs/rate-limits. To monitor your current usage, head to: https://ai.dev/usage?tab=rate-limit. 
+* Quota exceeded for metric: generativelanguage.googleapis.com/generate_requests_per_model_per_day, limit: 0 [links {
+  description: ""Learn more about Gemini API quotas""
+  url: ""https://ai.google.dev/gemini-api/docs/rate-limits""
+}
+, violations {
+  quota_metric: ""generativelanguage.googleapis.com/generate_requests_per_model_per_day""
+  quota_id: ""GenerateRequestsPerDayPerProjectPerModel""
+}
+]",UP,4.3e-06,WRONG,-0.2320%
+2025-12-14 20:34:12,BTCUSDT,89439.34,BUY,"Error: 429 You exceeded your current quota, please check your plan and billing details. For more information on this error, head to: https://ai.google.dev/gemini-api/docs/rate-limits. To monitor your current usage, head to: https://ai.dev/usage?tab=rate-limit. 
+* Quota exceeded for metric: generativelanguage.googleapis.com/generate_requests_per_model_per_day, limit: 0 [links {
+  description: ""Learn more about Gemini API quotas""
+  url: ""https://ai.google.dev/gemini-api/docs/rate-limits""
+}
+, violations {
+  quota_metric: ""generativelanguage.googleapis.com/generate_requests_per_model_per_day""
+  quota_id: ""GenerateRequestsPerDayPerProjectPerModel""
+}
+]",UP,89454.8,CORRECT,0.0173%
+2025-12-14 20:34:12,ETHUSDT,3100.88,BUY,"Error: 429 You exceeded your current quota, please check your plan and billing details. For more information on this error, head to: https://ai.google.dev/gemini-api/docs/rate-limits. To monitor your current usage, head to: https://ai.dev/usage?tab=rate-limit. 
+* Quota exceeded for metric: generativelanguage.googleapis.com/generate_requests_per_model_per_day, limit: 0 [links {
+  description: ""Learn more about Gemini API quotas""
+  url: ""https://ai.google.dev/gemini-api/docs/rate-limits""
+}
+, violations {
+  quota_metric: ""generativelanguage.googleapis.com/generate_requests_per_model_per_day""
+  quota_id: ""GenerateRequestsPerDayPerProjectPerModel""
+}
+]",UP,3100.22,WRONG,-0.0213%
+2025-12-14 20:34:12,BNBUSDT,891.32,BUY,"Error: 429 You exceeded your current quota, please check your plan and billing details. For more information on this error, head to: https://ai.google.dev/gemini-api/docs/rate-limits. To monitor your current usage, head to: https://ai.dev/usage?tab=rate-limit. 
+* Quota exceeded for metric: generativelanguage.googleapis.com/generate_requests_per_model_per_day, limit: 0 [links {
+  description: ""Learn more about Gemini API quotas""
+  url: ""https://ai.google.dev/gemini-api/docs/rate-limits""
+}
+, violations {
+  quota_metric: ""generativelanguage.googleapis.com/generate_requests_per_model_per_day""
+  quota_id: ""GenerateRequestsPerDayPerProjectPerModel""
+}
+]",UP,890.73,WRONG,-0.0662%
+2025-12-14 20:34:12,SOLUSDT,131.5,BUY,"Error: 429 You exceeded your current quota, please check your plan and billing details. For more information on this error, head to: https://ai.google.dev/gemini-api/docs/rate-limits. To monitor your current usage, head to: https://ai.dev/usage?tab=rate-limit. 
+* Quota exceeded for metric: generativelanguage.googleapis.com/generate_requests_per_model_per_day, limit: 0 [links {
+  description: ""Learn more about Gemini API quotas""
+  url: ""https://ai.google.dev/gemini-api/docs/rate-limits""
+}
+, violations {
+  quota_metric: ""generativelanguage.googleapis.com/generate_requests_per_model_per_day""
+  quota_id: ""GenerateRequestsPerDayPerProjectPerModel""
+}
+]",UP,131.46,WRONG,-0.0304%
+2025-12-14 20:34:12,PEPEUSDT,4.3e-06,BUY,"Error: 429 You exceeded your current quota, please check your plan and billing details. For more information on this error, head to: https://ai.google.dev/gemini-api/docs/rate-limits. To monitor your current usage, head to: https://ai.dev/usage?tab=rate-limit. 
+* Quota exceeded for metric: generativelanguage.googleapis.com/generate_requests_per_model_per_day, limit: 0 [links {
+  description: ""Learn more about Gemini API quotas""
+  url: ""https://ai.google.dev/gemini-api/docs/rate-limits""
+}
+, violations {
+  quota_metric: ""generativelanguage.googleapis.com/generate_requests_per_model_per_day""
+  quota_id: ""GenerateRequestsPerDayPerProjectPerModel""
+}
+]",UP,4.29e-06,WRONG,-0.2326%
+2025-12-14 20:35:13,BTCUSDT,89454.8,BUY,"Error: 429 You exceeded your current quota, please check your plan and billing details. For more information on this error, head to: https://ai.google.dev/gemini-api/docs/rate-limits. To monitor your current usage, head to: https://ai.dev/usage?tab=rate-limit. 
+* Quota exceeded for metric: generativelanguage.googleapis.com/generate_requests_per_model_per_day, limit: 0 [links {
+  description: ""Learn more about Gemini API quotas""
+  url: ""https://ai.google.dev/gemini-api/docs/rate-limits""
+}
+, violations {
+  quota_metric: ""generativelanguage.googleapis.com/generate_requests_per_model_per_day""
+  quota_id: ""GenerateRequestsPerDayPerProjectPerModel""
+}
+]",UP,89446.39,WRONG,-0.0094%
+2025-12-14 20:35:13,ETHUSDT,3100.22,BUY,"Error: 429 You exceeded your current quota, please check your plan and billing details. For more information on this error, head to: https://ai.google.dev/gemini-api/docs/rate-limits. To monitor your current usage, head to: https://ai.dev/usage?tab=rate-limit. 
+* Quota exceeded for metric: generativelanguage.googleapis.com/generate_requests_per_model_per_day, limit: 0 [links {
+  description: ""Learn more about Gemini API quotas""
+  url: ""https://ai.google.dev/gemini-api/docs/rate-limits""
+}
+, violations {
+  quota_metric: ""generativelanguage.googleapis.com/generate_requests_per_model_per_day""
+  quota_id: ""GenerateRequestsPerDayPerProjectPerModel""
+}
+]",UP,3100.33,CORRECT,0.0035%
+2025-12-14 20:35:13,BNBUSDT,890.73,BUY,"Error: 429 You exceeded your current quota, please check your plan and billing details. For more information on this error, head to: https://ai.google.dev/gemini-api/docs/rate-limits. To monitor your current usage, head to: https://ai.dev/usage?tab=rate-limit. 
+* Quota exceeded for metric: generativelanguage.googleapis.com/generate_requests_per_model_per_day, limit: 0 [links {
+  description: ""Learn more about Gemini API quotas""
+  url: ""https://ai.google.dev/gemini-api/docs/rate-limits""
+}
+, violations {
+  quota_metric: ""generativelanguage.googleapis.com/generate_requests_per_model_per_day""
+  quota_id: ""GenerateRequestsPerDayPerProjectPerModel""
+}
+]",UP,890.78,CORRECT,0.0056%
+2025-12-14 20:35:13,SOLUSDT,131.47,BUY,"Error: 429 You exceeded your current quota, please check your plan and billing details. For more information on this error, head to: https://ai.google.dev/gemini-api/docs/rate-limits. To monitor your current usage, head to: https://ai.dev/usage?tab=rate-limit. 
+* Quota exceeded for metric: generativelanguage.googleapis.com/generate_requests_per_model_per_day, limit: 0 [links {
+  description: ""Learn more about Gemini API quotas""
+  url: ""https://ai.google.dev/gemini-api/docs/rate-limits""
+}
+, violations {
+  quota_metric: ""generativelanguage.googleapis.com/generate_requests_per_model_per_day""
+  quota_id: ""GenerateRequestsPerDayPerProjectPerModel""
+}
+]",UP,131.53,CORRECT,0.0456%
+2025-12-14 20:35:13,PEPEUSDT,4.29e-06,BUY,"Error: 429 You exceeded your current quota, please check your plan and billing details. For more information on this error, head to: https://ai.google.dev/gemini-api/docs/rate-limits. To monitor your current usage, head to: https://ai.dev/usage?tab=rate-limit. 
+* Quota exceeded for metric: generativelanguage.googleapis.com/generate_requests_per_model_per_day, limit: 0 [links {
+  description: ""Learn more about Gemini API quotas""
+  url: ""https://ai.google.dev/gemini-api/docs/rate-limits""
+}
+, violations {
+  quota_metric: ""generativelanguage.googleapis.com/generate_requests_per_model_per_day""
+  quota_id: ""GenerateRequestsPerDayPerProjectPerModel""
+}
+]",UP,4.3e-06,CORRECT,0.2331%
+2025-12-14 20:36:14,BTCUSDT,89446.38,BUY,"Error: 429 You exceeded your current quota, please check your plan and billing details. For more information on this error, head to: https://ai.google.dev/gemini-api/docs/rate-limits. To monitor your current usage, head to: https://ai.dev/usage?tab=rate-limit. 
+* Quota exceeded for metric: generativelanguage.googleapis.com/generate_requests_per_model_per_day, limit: 0 [links {
+  description: ""Learn more about Gemini API quotas""
+  url: ""https://ai.google.dev/gemini-api/docs/rate-limits""
+}
+, violations {
+  quota_metric: ""generativelanguage.googleapis.com/generate_requests_per_model_per_day""
+  quota_id: ""GenerateRequestsPerDayPerProjectPerModel""
+}
+]",UP,89431.07,WRONG,-0.0171%
+2025-12-14 20:36:14,ETHUSDT,3100.14,BUY,"Error: 429 You exceeded your current quota, please check your plan and billing details. For more information on this error, head to: https://ai.google.dev/gemini-api/docs/rate-limits. To monitor your current usage, head to: https://ai.dev/usage?tab=rate-limit. 
+* Quota exceeded for metric: generativelanguage.googleapis.com/generate_requests_per_model_per_day, limit: 0 [links {
+  description: ""Learn more about Gemini API quotas""
+  url: ""https://ai.google.dev/gemini-api/docs/rate-limits""
+}
+, violations {
+  quota_metric: ""generativelanguage.googleapis.com/generate_requests_per_model_per_day""
+  quota_id: ""GenerateRequestsPerDayPerProjectPerModel""
+}
+]",UP,3098.84,WRONG,-0.0419%
+2025-12-14 20:36:14,BNBUSDT,890.79,BUY,"Error: 429 You exceeded your current quota, please check your plan and billing details. For more information on this error, head to: https://ai.google.dev/gemini-api/docs/rate-limits. To monitor your current usage, head to: https://ai.dev/usage?tab=rate-limit. 
+* Quota exceeded for metric: generativelanguage.googleapis.com/generate_requests_per_model_per_day, limit: 0 [links {
+  description: ""Learn more about Gemini API quotas""
+  url: ""https://ai.google.dev/gemini-api/docs/rate-limits""
+}
+, violations {
+  quota_metric: ""generativelanguage.googleapis.com/generate_requests_per_model_per_day""
+  quota_id: ""GenerateRequestsPerDayPerProjectPerModel""
+}
+]",UP,890.64,WRONG,-0.0168%
+2025-12-14 20:36:14,SOLUSDT,131.54,BUY,"Error: 429 You exceeded your current quota, please check your plan and billing details. For more information on this error, head to: https://ai.google.dev/gemini-api/docs/rate-limits. To monitor your current usage, head to: https://ai.dev/usage?tab=rate-limit. 
+* Quota exceeded for metric: generativelanguage.googleapis.com/generate_requests_per_model_per_day, limit: 0 [links {
+  description: ""Learn more about Gemini API quotas""
+  url: ""https://ai.google.dev/gemini-api/docs/rate-limits""
+}
+, violations {
+  quota_metric: ""generativelanguage.googleapis.com/generate_requests_per_model_per_day""
+  quota_id: ""GenerateRequestsPerDayPerProjectPerModel""
+}
+]",UP,131.51,WRONG,-0.0228%
+2025-12-14 20:36:14,PEPEUSDT,4.3e-06,BUY,"Error: 429 You exceeded your current quota, please check your plan and billing details. For more information on this error, head to: https://ai.google.dev/gemini-api/docs/rate-limits. To monitor your current usage, head to: https://ai.dev/usage?tab=rate-limit. 
+* Quota exceeded for metric: generativelanguage.googleapis.com/generate_requests_per_model_per_day, limit: 0 [links {
+  description: ""Learn more about Gemini API quotas""
+  url: ""https://ai.google.dev/gemini-api/docs/rate-limits""
+}
+, violations {
+  quota_metric: ""generativelanguage.googleapis.com/generate_requests_per_model_per_day""
+  quota_id: ""GenerateRequestsPerDayPerProjectPerModel""
+}
+]",UP,4.3e-06,WRONG,0.0000%

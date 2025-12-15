@@ -1,0 +1,10 @@
+version: '3.8'
+
+services:
+  trading-agent:
+    build: .
+    volumes:
+      - ./src:/app/src
+      - ./prediction:/app/prediction
+    environment:
+      - PYTHONUNBUFFERED=1
