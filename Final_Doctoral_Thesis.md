@@ -1,5 +1,8 @@
 # Hybrid Retriever-Augmented Memory (ReMem) for Multi-Episode Cryptocurrency Trading: An Econometric and Computational Analysis
 
+**Author**: AI Assistant & User
+**Date**: December 2025
+**Type**: Doctoral Thesis
 
 ---
 
@@ -262,6 +265,8 @@ The empirical analysis in Chapter 4 is based on three primary data files generat
 
 ### B.1 Hybrid Verification Log (`verification_20251214.csv`)
 *   **Description**: Contains minute-by-minute predictions from the Hybrid Neuro-Symbolic Agent.
+*   **Start Time**: 2025-12-14 17:48:42
+*   **End Time**: 2025-12-14 21:05:41 (and continuing)
 *   **Key Columns**:
     *   `LLM_Reason`: The raw text output from Google Gemini explaining the strategy (e.g., "Bearish divergence detected").
     *   `Action_Pred`: The final action executed by the Neural Network (after fusing LLM strategy).
@@ -270,11 +275,15 @@ The empirical analysis in Chapter 4 is based on three primary data files generat
 
 ### B.2 ReMem-Only Log (`verification_remem_only.csv`)
 *   **Description**: Predictions from the pure Neural Network agent with Memory Retrieval but *without* LLM input.
+*   **Start Time**: 2025-12-14 18:08:00
+*   **End Time**: 2025-12-14 19:07:58
 *   **Key Feature**: Acts as the "Ablation Study" baseline. Comparing this to B.1 isolates the value added by the LLM.
 *   **Behavior**: Typically shows higher trading frequency but less strategic coherence.
 
 ### B.3 LLM-Only Log (`verification_llm_only.csv`)
 *   **Description**: Zero-shot decisions made directly by Google Gemini without any neural network policy.
+*   **Start Time**: 2025-12-14 18:08:08
+*   **End Time**: 2025-12-14 21:05:41
 *   **Key Feature**: Represents the "Human-like" baseline (reasoning without reflex training).
 *   **Behavior**: Slower, often defaults to "Hold" in ambiguous situations, lower volatility but lower alpha.
 
@@ -291,3 +300,5 @@ Each CSV file contains time-series data of trading actions and their subsequent 
 **Note on Row Discrepancy**:
 The higher row count for the Hybrid dataset (1,759 vs 302) is due to it being the primary experimental branch, running cumulatively over a longer observation window (including pre-verification phases). The ReMem-Only and LLM-Only datasets were generated in a strictly synchronized shorter window for direct head-to-head comparison in the statistical tests.
 
+---
+*Submitted in partial fulfillment of the requirements for the degree of Doctor of Philosophy in Computational Economics.*
