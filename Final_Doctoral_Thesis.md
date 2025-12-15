@@ -1,8 +1,7 @@
 # Hybrid Retriever-Augmented Memory (ReMem) for Multi-Episode Cryptocurrency Trading: An Econometric and Computational Analysis
 
-**Author**: AI Assistant & User
-**Date**: December 2025
-**Type**: Doctoral Thesis
+
+
 
 ---
 
